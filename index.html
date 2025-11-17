@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de Legislación</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f4f7f9;
+            color: #333;
+            line-height: 1.5;
+            padding: 10px;
+        }
+        .quiz-container {
+            background-color: #fff;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            margin: auto;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #e0e0e0;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        #reset-btn {
+            background-color: #e74c3c;
+            color: white;
+            border: none;
+            padding: 6px 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.8em;
+            transition: background-color 0.2s;
+        }
+        #reset-btn:hover {
+            background-color: #c0392b;
+        }
+        .question-card {
+            border: 1px solid #e0e0e0;
+            border-radius: 6px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+        }
+        .question-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+        .question-title {
+            font-size: 1em;
+            font-weight: bold;
+            margin: 0;
+        }
+        .explanation-toggle {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 22px;
+            height: 22px;
+            font-size: 14px;
+            font-weight: bold;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            line-height: 1;
+            padding-bottom: 1px;
+        }
+        .question-text {
+            font-size: 1em;
+            margin-bottom: 0.75rem;
+        }
+        .options-container {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        .option {
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            padding: 0.75rem;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.2s, border-color 0.2s;
+        }
+        .option:hover:not(.answered) {
+            background-color: #e9ecef;
+        }
+        .option.correct {
+            background-color: #d4edda;
+            border-color: #c3e6cb;
+            color: #155724;
+        }
+        .option.incorrect {
+            background-color: #f8d7da;
+            border-color: #f5c6cb;
+            color: #721c24;
+        }
+        .option.answered {
+             cursor: default;
+        }
+        .feedback {
+            margin-top: 1rem;
+            padding: 0.25rem;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 0.9em;
+        }
+        .explanation {
+            margin-bottom: 1rem;
+            padding: 0.75rem;
+            background-color: #eef2f5;
+            border-left: 3px solid #3498db;
+            border-radius: 4px;
+            font-size: 0.9em;
+            display: none; /* Initially hidden */
+        }
+    </style>
+</head>
+<body>
+
+<div class="quiz-container">
+    <div class="header">
+        <h1 style="font-size: 1.2em; margin: 0;">Quiz de Legislación</h1>
+        <button id="reset-btn">Reiniciar Progreso</button>
+    </div>
+
+    <div id="all-questions-container">
+        <!-- Questions will be dynamically inserted here -->
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const allQuestionsContainer = document.getElementById('all-questions-container');
+        const resetBtn = document.getElementById('reset-btn');
+
+        let allQuestions = [];
+        const userAnswers = JSON.parse(localStorage.getItem('quizAnswers')) || {};
+
+        async function fetchQuestions() {
+            try {
+                const response = await fetch('questions.json');
+                if (!response.ok) throw new Error('Network response was not ok');
+                allQuestions = await response.json();
+                renderAllQuestions();
+            } catch (error) {
+                allQuestionsContainer.innerHTML = '<p>Error al cargar las preguntas.</p>';
+                console.error('Fetch error:', error);
+            }
+        }
+
+        function renderAllQuestions() {
+            allQuestionsContainer.innerHTML = ''; // Clear previous content
+            allQuestions.forEach((question, index) => {
+                const questionCard = document.createElement('div');
+                questionCard.className = 'question-card';
+                questionCard.id = `question-${question.id}`;
+
+                questionCard.innerHTML = `
+                    <div class="question-header">
+                        <h3 class="question-title">Pregunta ${index + 1}</h3>
+                        <button class="explanation-toggle" title="Mostrar/Ocultar Explicación">i</button>
+                    </div>
+                    <p class="question-text">${question.q}</p>
+                    <div class="explanation">
+                        <strong>Explicación:</strong> ${question.explanation}
+                    </div>
+                    <div class="options-container">
+                        ${question.options.map((opt, optIndex) => `
+                            <div class="option" data-index="${optIndex}">${opt}</div>
+                        `).join('')}
+                    </div>
+                    <div class="feedback"></div>
+                `;
+
+                allQuestionsContainer.appendChild(questionCard);
+
+                // Add event listeners for the newly created elements
+                const options = questionCard.querySelectorAll('.option');
+                options.forEach(option => {
+                    option.addEventListener('click', () => {
+                        handleOptionClick(question.id, parseInt(option.dataset.index, 10));
+                    });
+                });
+                
+                const toggleBtn = questionCard.querySelector('.explanation-toggle');
+                const explanationDiv = questionCard.querySelector('.explanation');
+                toggleBtn.addEventListener('click', () => {
+                    const isHidden = explanationDiv.style.display === 'none' || explanationDiv.style.display === '';
+                    explanationDiv.style.display = isHidden ? 'block' : 'none';
+                });
+
+                // Restore saved state if exists
+                if (userAnswers[question.id] !== undefined) {
+                    showResult(question.id, userAnswers[question.id]);
+                }
+            });
+        }
+
+        function handleOptionClick(questionId, selectedIndex) {
+            if (userAnswers[questionId] !== undefined) return; // Already answered
+
+            userAnswers[questionId] = selectedIndex;
+            localStorage.setItem('quizAnswers', JSON.stringify(userAnswers));
+            showResult(questionId, selectedIndex);
+        }
+
+        function showResult(questionId, selectedIndex) {
+            const question = allQuestions.find(q => q.id === questionId);
+            const questionCard = document.getElementById(`question-${questionId}`);
+            
+            const options = questionCard.querySelectorAll('.option');
+            const feedbackEl = questionCard.querySelector('.feedback');
+            
+            const isCorrect = selectedIndex === question.answer;
+
+            options.forEach((optionNode) => {
+                const nodeIndex = parseInt(optionNode.dataset.index, 10);
+                optionNode.classList.add('answered'); // Mark as answered to prevent hover effects
+                
+                if (nodeIndex === question.answer) {
+                    optionNode.classList.add('correct');
+                } else if (nodeIndex === selectedIndex) {
+                    optionNode.classList.add('incorrect');
+                }
+            });
+
+            feedbackEl.textContent = isCorrect ? '¡Correcto!' : 'Incorrecto.';
+            feedbackEl.style.color = isCorrect ? '#155724' : '#721c24';
+        }
+
+        resetBtn.addEventListener('click', () => {
+            if (confirm('¿Estás seguro de que quieres reiniciar todo tu progreso?')) {
+                localStorage.removeItem('quizAnswers');
+                window.location.reload();
+            }
+        });
+
+        fetchQuestions();
+    });
+</script>
+
+</body>
+</html>

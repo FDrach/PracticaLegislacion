@@ -1,0 +1,2532 @@
+[
+  {
+    "id": 1,
+    "q": "Según el Código Civil y Comercial de la Nación (art. 724), ¿qué es una 'Obligación'?",
+    "options": [
+      "Un vínculo estrictamente personal que permite al acreedor ejercer poderes sobre la persona del deudor.",
+      "Un acto jurídico mediante el cual dos o más partes manifiestan su consentimiento para crear relaciones patrimoniales.",
+      "Una relación jurídica en la que el acreedor tiene el derecho a exigir del deudor una prestación para satisfacer un interés lícito."
+    ],
+    "answer": 2,
+    "explanation": "El art. 724 del CCCN define a la obligación como 'una relación jurídica en virtud de a cual el acreedor tiene el derecho a exigir del deudor una prestación destinada a satisfacer un interés lícito y, ante el cumplimiento, a obtener forzadamente la satisfacción de dicho interés'."
+  },
+  {
+    "id": 2,
+    "q": "¿Qué tipo de contrato crea obligaciones recíprocas para todas las partes intervinientes, como por ejemplo un contrato de compraventa?",
+    "options": [
+      "Contrato Unilateral",
+      "Contrato Bilateral",
+      "Contrato Plurilateral"
+    ],
+    "answer": 1,
+    "explanation": "Los contratos bilaterales son los que crean obligaciones recíprocas para todas las partes intervinientes. El texto menciona explícitamente la compraventa como un ejemplo."
+  },
+  {
+    "id": 3,
+    "q": "¿Cuál es el principio general establecido en la Ley de Contrato de Trabajo (LCT) sobre la duración de los contratos laborales?",
+    "options": [
+      "El contrato por tiempo indeterminado.",
+      "El contrato a plazo fijo.",
+      "El contrato de temporada."
+    ],
+    "answer": 0,
+    "explanation": "El texto indica que 'El principio general establecido en la LCT es el contrato de trabajo por tiempo indeterminado (art. 90, LCT), que es el contrato típico'."
+  },
+  {
+    "id": 4,
+    "q": "Según la LCT, ¿cuánto dura el período de prueba en un contrato de trabajo por tiempo indeterminado?",
+    "options": [
+      "Un (1) mes",
+      "Seis (6) meses",
+      "Tres (3) meses"
+    ],
+    "answer": 2,
+    "explanation": "El art. 92 bis de la LCT establece: 'El contrato de trabajo por tiempo indeterminado... se entenderá celebrado a prueba durante los primeros TRES (3) meses de vigencia'."
+  },
+  {
+    "id": 5,
+    "q": "En el derecho laboral, la 'Remuneración' se define como:",
+    "options": [
+      "La contraprestación que recibe el trabajador como consecuencia del contrato de trabajo.",
+      "Los beneficios sociales que mejoran la calidad de vida del trabajador, como el servicio de comedor.",
+      "Una indemnización que se paga al finalizar la relación laboral."
+    ],
+    "answer": 0,
+    "explanation": "La remuneración es 'la contraprestación que recibe el trabajador como consecuencia del contrato de trabajo y constituye la principal obligación del empleador'."
+  },
+  {
+    "id": 6,
+    "q": "En Argentina, ¿cuál es el régimen de protección legal principal para el software o los programas de computación?",
+    "options": [
+      "Patentes de invención.",
+      "Derechos de Autor (Copyright).",
+      "Modelos de Utilidad."
+    ],
+    "answer": 1,
+    "explanation": "El texto indica que la creación de software está protegida principalmente por los 'Derechos de Autor', siendo este el régimen principal en la mayoría de los países para proteger la expresión de las ideas."
+  },
+  {
+    "id": 7,
+    "q": "¿Cuál es la duración máxima de la protección otorgada por una 'patente de invención' en Argentina?",
+    "options": [
+      "10 años",
+      "20 años",
+      "50 años"
+    ],
+    "answer": 1,
+    "explanation": "El texto sobre Patentes indica que el derecho otorgado permite impedir la explotación comercial 'durante un plazo limitado (20 años)'."
+  },
+  {
+    "id": 8,
+    "q": "En un proceso judicial, ¿cuál es la diferencia fundamental entre un 'Perito de Oficio' y un 'Perito de Parte'?",
+    "options": [
+      "El perito de oficio es un empleado estatal y el de parte es siempre privado.",
+      "El perito de oficio es elegido de una lista judicial, mientras que el de parte es designado privadamente por una de las partes.",
+      "Solo el dictamen del perito de oficio tiene validez probatoria."
+    ],
+    "answer": 1,
+    "explanation": "El 'Perito de oficio' es elegido de una lista de Peritos registrados ante los organismos judiciales. El 'Perito de parte' es designado en el proceso por algunas de las partes en forma privada."
+  },
+  {
+    "id": 9,
+    "q": "¿Por qué la adquisición de un 'volcado de memoria' (memory dump) es una tarea prioritaria en un análisis forense 'in situ'?",
+    "options": [
+      "Porque es el único lugar donde se almacenan las contraseñas.",
+      "Porque la información en la memoria RAM es volátil y cambia constantemente.",
+      "Porque así lo exige el Código Procesal Penal antes de analizar el disco duro."
+    ],
+    "answer": 1,
+    "explanation": "La adquisición del volcado de memoria es una tarea prioritaria 'debido a la volatilidad de los datos y porque otras actividades a realizar en la escena... pueden afectar a la información presente en memoria'."
+  },
+  {
+    "id": 10,
+    "q": "El 'Ius variandi' es una facultad que corresponde a:",
+    "options": [
+      "El trabajador, para cambiar sus condiciones de trabajo si no son de su agrado.",
+      "El Juez, para modificar las cláusulas de un contrato laboral.",
+      "El empleador, para alterar unilateralmente algunas condiciones no esenciales del contrato."
+    ],
+    "answer": 2,
+    "explanation": "El 'Ius variandi' es una de las facultades del empleador, y consiste en 'modificar las formas y modalidades no esenciales del contrato' de forma unilateral."
+  },
+  {
+    "id": 11,
+    "q": "En las obligaciones de dar, además de entregar la cosa, ¿qué otro deber tiene el deudor?",
+    "options": [
+      "Asegurar la cosa contra todo riesgo.",
+      "Mejorar la cosa antes de la entrega.",
+      "Conservar la cosa en el mismo estado en que se encontraba al contraer la obligación."
+    ],
+    "answer": 2,
+    "explanation": "El deudor de una cosa tiene el deber de entregarla pero además tiene el deber de 'Conservar la cosa en el mismo estado en que se encontraba cuando contrajo la obligación'."
+  },
+  {
+    "id": 12,
+    "q": "Un contrato de 'Locación' se caracteriza porque una parte (locador) se obliga a:",
+    "options": [
+      "Transferir la propiedad de una cosa a cambio de un precio.",
+      "Otorgar el uso y goce temporario de una cosa a cambio de un precio en dinero.",
+      "Realizar una obra o prestar un servicio a favor de otra."
+    ],
+    "answer": 1,
+    "explanation": "En el contrato de Locación, el locador se obliga a otorgar a otra (locatario) el uso y goce temporario de una cosa, a cambio del pago de un precio en dinero."
+  },
+  {
+    "id": 13,
+    "q": "¿Qué son los Derechos Reales?",
+    "options": [
+      "Las relaciones jurídicas entre dos personas (deudor y acreedor).",
+      "Las relaciones jurídicas directas e inmediatas entre una persona y una cosa.",
+      "Los derechos que surgen exclusivamente de los contratos."
+    ],
+    "answer": 1,
+    "explanation": "Los Derechos Reales son definidos como las relaciones jurídicas directas e inmediatas entre una persona y una cosa. El término proviene del latín 'Ius in re' (derecho sobre la cosa)."
+  },
+  {
+    "id": 14,
+    "q": "El principio 'numerus clausus' en los Derechos Reales significa que:",
+    "options": [
+      "Los derechos reales son ilimitados y las partes pueden crear nuevos.",
+      "El número y tipo de derechos reales están determinados exclusivamente por la ley.",
+      "Los derechos reales solo pueden ejercerse sobre cosas inmuebles."
+    ],
+    "answer": 1,
+    "explanation": "El principio de 'numerus clausus' consiste en que el número de derechos reales ya está determinado por ley, y las partes no pueden crear otros diferentes a los establecidos."
+  },
+  {
+    "id": 15,
+    "q": "La hipoteca y la prenda son ejemplos de Derechos Reales:",
+    "options": [
+      "Sobre cosa propia.",
+      "Principales.",
+      "Accesorios."
+    ],
+    "answer": 2,
+    "explanation": "Según la clasificación del art. 1889 del CCCN, los Derechos Reales accesorios son los de garantía, como la hipoteca, la prenda y la anticresis. Todos los demás son principales."
+  },
+  {
+    "id": 16,
+    "q": "El Derecho del Trabajo tiene como finalidad principal:",
+    "options": [
+      "Proteger a los empleadores de reclamos infundados.",
+      "Proteger a los trabajadores, compensando las desigualdades con los empleadores.",
+      "Regular únicamente las relaciones entre sindicatos y el Estado."
+    ],
+    "answer": 1,
+    "explanation": "La finalidad del Derecho del Trabajo es proteger a los trabajadores, constituyéndose en una herramienta para igualar a trabajadores y empleadores y compensar las diferencias preexistentes."
+  },
+  {
+    "id": 17,
+    "q": "¿Qué regula el Derecho Colectivo del Trabajo?",
+    "options": [
+      "La relación individual entre un trabajador y un empleador.",
+      "Los tratados internacionales firmados por la OIT.",
+      "Las relaciones entre sindicatos, cámaras empresariales y el Estado."
+    ],
+    "answer": 2,
+    "explanation": "El Derecho Colectivo del Trabajo regula las relaciones de los sujetos colectivos: la asociación profesional de trabajadores (sindicato) y las entidades representativas de los empleadores (cámaras empresariales)."
+  },
+  {
+    "id": 18,
+    "q": "El principio protectorio del derecho laboral se expresa en la regla 'in dubio pro operario', que significa:",
+    "options": [
+      "En caso de duda sobre la aplicación de normas, se debe decidir a favor del empleador.",
+      "En caso de duda sobre la interpretación de una norma, se debe elegir la interpretación más favorable al trabajador.",
+      "El trabajador no puede renunciar a sus derechos."
+    ],
+    "answer": 1,
+    "explanation": "La regla 'In dubio pro operario' es una de las tres expresiones del principio protectorio y significa que si una norma genera dudas en su interpretación, los jueces deben decidir en el sentido más favorable para el trabajador."
+  },
+  {
+    "id": 19,
+    "q": "El principio de 'primacía de la realidad' en el derecho laboral establece que:",
+    "options": [
+      "Lo que está escrito en el contrato prevalece siempre sobre los hechos.",
+      "Lo que ocurre en la práctica es más importante que lo que las partes hayan pactado o documentado.",
+      "Las partes deben actuar siempre de buena fe."
+    ],
+    "answer": 1,
+    "explanation": "El principio de primacía de la realidad significa que, en caso de discordancia entre lo que ocurre en la práctica y lo que surge de los documentos, se debe dar preferencia a los hechos."
+  },
+  {
+    "id": 20,
+    "q": "Un contrato de trabajo se caracteriza por ser 'de tracto sucesivo'. ¿Qué significa esto?",
+    "options": [
+      "Que se agota en un único acto de cumplimiento.",
+      "Que sus obligaciones se cumplen de forma continuada en el tiempo.",
+      "Que debe ser registrado obligatoriamente ante la AFIP."
+    ],
+    "answer": 1,
+    "explanation": "Que un contrato es 'de tracto sucesivo' significa que la relación y sus obligaciones no se agotan en un solo instante, sino que se desarrollan y perduran a lo largo del tiempo."
+  },
+  {
+    "id": 21,
+    "q": "El contrato de 'Leasing' se define como aquel donde el dador transfiere al tomador la tenencia de un bien para su uso y goce, contra el pago de un canon y le confiere:",
+    "options": [
+      "La obligación de devolverlo al finalizar el plazo.",
+      "El derecho a subarrendarlo a terceros.",
+      "Una opción de compra por un precio."
+    ],
+    "answer": 2,
+    "explanation": "Una característica esencial del Leasing es que, al finalizar el contrato, el tomador (cliente) tiene una opción de compra sobre el bien por un precio previamente pactado."
+  },
+  {
+    "id": 22,
+    "q": "En un 'Contrato de Suministro', una parte se obliga a entregar bienes o servicios:",
+    "options": [
+      "En un único acto y de una sola vez.",
+      "En forma periódica o continuada.",
+      "Únicamente si la otra parte lo solicita con 30 días de antelación."
+    ],
+    "answer": 1,
+    "explanation": "El contrato de suministro se caracteriza por la entrega de bienes o servicios sin relación de dependencia, en forma periódica, a cambio del pago de un precio por cada entrega."
+  },
+  {
+    "id": 23,
+    "q": "Un 'Contrato de Mutuo' es aquel donde una parte se compromete a entregar a la otra, en propiedad, una cantidad de:",
+    "options": [
+      "Cosas no fungibles, para que se sirva de ellas y las restituya.",
+      "Cosas fungibles, y ésta se obliga a devolver igual cantidad de la misma calidad y especie.",
+      "Un bien cierto y determinado para su uso, con opción a compra."
+    ],
+    "answer": 1,
+    "explanation": "El Mutuo (o préstamo de consumo) tiene por objeto cosas fungibles (como el dinero), y el mutuario se obliga a devolver una cantidad equivalente."
+  },
+  {
+    "id": 24,
+    "q": "El contrato por el cual una persona se obliga gratuitamente a transferir una cosa a otra, y ésta lo acepta, se denomina:",
+    "options": [
+      "Comodato",
+      "Permuta",
+      "Donación"
+    ],
+    "answer": 2,
+    "explanation": "La Donación es un contrato en el que una parte (donante) se obliga a transferir gratuitamente una cosa a otra (donatario) y ésta lo acepta."
+  },
+  {
+    "id": 25,
+    "q": "Un contrato 'aleatorio' es aquel en el que:",
+    "options": [
+      "Las ventajas para las partes son ciertas y conocidas desde el inicio.",
+      "Las ventajas o pérdidas para las partes dependen de un acontecimiento incierto.",
+      "Una de las partes no recibe ninguna contraprestación."
+    ],
+    "answer": 1,
+    "explanation": "En los contratos aleatorios, como el de juego y apuesta o la renta vitalicia, las ventajas o pérdidas para una o todas las partes dependen de un evento futuro e incierto."
+  },
+  {
+    "id": 26,
+    "q": "¿Qué requisito formal es indispensable para la validez de un 'Contrato a Plazo Fijo'?",
+    "options": [
+      "Ser celebrado verbalmente ante testigos.",
+      "Ser realizado por escrito, expresando la causa y el plazo.",
+      "Tener una duración mínima de un año."
+    ],
+    "answer": 1,
+    "explanation": "Para que un contrato a plazo fijo sea válido, debe ser realizado por escrito, expresando la causa objetiva que lo justifica y el plazo de duración."
+  },
+  {
+    "id": 27,
+    "q": "El 'Contrato de Temporada' se caracteriza por ser:",
+    "options": [
+      "Un contrato de tiempo indeterminado, pero de prestación discontinua.",
+      "Un contrato que finaliza automáticamente cada año y debe renovarse.",
+      "Un tipo de contrato eventual sin plazo de finalización."
+    ],
+    "answer": 0,
+    "explanation": "El contrato de temporada es un contrato de tiempo indeterminado, pero la prestación de servicios se realiza de manera discontinua, durante ciertas épocas del año."
+  },
+  {
+    "id": 28,
+    "q": "Las 'Pasantías Educativas' reguladas por la Ley 26.427, ¿generan una relación laboral?",
+    "options": [
+      "Sí, se consideran un contrato de aprendizaje.",
+      "No, no originan ningún tipo de relación laboral.",
+      "Sí, pero solo si superan los 6 meses de duración."
+    ],
+    "answer": 1,
+    "explanation": "La Ley 26.427 establece explícitamente que las pasantías educativas 'No originan ningún tipo de relación laboral' y no pueden usarse para cubrir vacantes."
+  },
+  {
+    "id": 29,
+    "q": "La facultad del empleador de organizar el trabajo, dictar reglamentos y emitir directivas se conoce como:",
+    "options": [
+      "Poder disciplinario",
+      "Facultad de organización y dirección",
+      "Deber de ocupación"
+    ],
+    "answer": 1,
+    "explanation": "El empleador tiene la facultad de organización para determinar las modalidades de la prestación, el poder reglamentario para dictar normas internas y el poder de dirección para emitir directivas."
+  },
+  {
+    "id": 30,
+    "q": "El deber del empleador de adoptar medidas para proteger la salud psicofísica del trabajador se denomina:",
+    "options": [
+      "Deber de diligencia",
+      "Deber de seguridad y protección",
+      "Deber de no discriminación"
+    ],
+    "answer": 1,
+    "explanation": "El deber de seguridad y protección consiste en el conjunto de medidas que el empleador debe adoptar para proteger la salud psicofísica del trabajador, su dignidad y evitar daños en sus bienes."
+  },
+  {
+    "id": 31,
+    "q": "El 'deber de fidelidad' del trabajador implica que este debe:",
+    "options": [
+      "Prestar servicios únicamente para un solo empleador durante toda su vida laboral.",
+      "Actuar con honestidad y no ejecutar negociaciones que afecten los intereses del empleador.",
+      "Obedecer cualquier orden del empleador, incluso si es ilegal."
+    ],
+    "answer": 1,
+    "explanation": "El deber de fidelidad está relacionado con el principio de buena fe y exige que el trabajador se comporte con honestidad y se abstenga de realizar actos que perjudiquen al empleador (deber de no concurrencia)."
+  },
+  {
+    "id": 32,
+    "q": "El salario que percibe un trabajador es 'inembargable':",
+    "options": [
+      "En su totalidad, sin importar el monto.",
+      "Hasta la suma equivalente a un salario mínimo vital y móvil.",
+      "Solo si el trabajador tiene cargas de familia."
+    ],
+    "answer": 1,
+    "explanation": "Por su carácter alimentario, la remuneración es inembargable hasta la suma equivalente a un salario mínimo vital y móvil. Si lo supera, es embargable pero con restricciones."
+  },
+  {
+    "id": 33,
+    "q": "Los 'Beneficios Sociales' otorgados por el empleador (ej. servicio de comedor) son considerados:",
+    "options": [
+      "Prestaciones remunerativas que integran el salario.",
+      "Prestaciones no remunerativas de la seguridad social.",
+      "Adelantos de sueldo que deben ser devueltos."
+    ],
+    "answer": 1,
+    "explanation": "El artículo 103 de la LCT establece que los beneficios sociales son prestaciones de seguridad social no remunerativas, con el objeto de mejorar la calidad de vida del dependiente."
+  },
+  {
+    "id": 34,
+    "q": "La 'jornada de trabajo nocturna' en Argentina comprende el horario entre:",
+    "options": [
+      "Las 20:00 hs y las 05:00 hs.",
+      "Las 22:00 hs y las 07:00 hs.",
+      "Las 21:00 hs y las 06:00 hs."
+    ],
+    "answer": 2,
+    "explanation": "La jornada nocturna es la que se cumple entre las 21:00 horas de un día y las 06:00 horas del día siguiente. Su duración máxima es de 7 horas."
+  },
+  {
+    "id": 35,
+    "q": "La jornada de trabajo 'insalubre' no puede exceder de:",
+    "options": [
+      "6 horas diarias.",
+      "7 horas diarias.",
+      "8 horas diarias."
+    ],
+    "answer": 0,
+    "explanation": "La jornada insalubre, por poner en riesgo la salud del trabajador, tiene una duración máxima de 6 horas diarias o 36 semanales."
+  },
+  {
+    "id": 36,
+    "q": "El límite máximo de horas extras que un trabajador puede realizar es de:",
+    "options": [
+      "20 horas mensuales y 150 anuales.",
+      "30 horas mensuales y 200 anuales.",
+      "40 horas mensuales y 250 anuales."
+    ],
+    "answer": 1,
+    "explanation": "El límite establecido para la realización de horas extras es de 30 horas mensuales y 200 horas anuales."
+  },
+  {
+    "id": 37,
+    "q": "El descanso semanal obligatorio, según la LCT, va desde:",
+    "options": [
+      "Las 12:00 hs del sábado hasta las 24:00 hs del domingo.",
+      "Las 20:00 hs del sábado hasta las 06:00 hs del lunes.",
+      "Las 13:00 hs del sábado hasta las 24:00 hs del domingo."
+    ],
+    "answer": 2,
+    "explanation": "El art. 203 de la LCT prohíbe la ocupación del trabajador desde las 13 horas del día sábado hasta las 24 horas del día siguiente (domingo)."
+  },
+  {
+    "id": 38,
+    "q": "Para tener derecho al período completo de vacaciones, un trabajador debe haber prestado servicios como mínimo:",
+    "options": [
+      "La totalidad de los días hábiles del año.",
+      "La mitad de los días hábiles del año.",
+      "Un tercio de los días hábiles del año."
+    ],
+    "answer": 1,
+    "explanation": "El art. 151 de la LCT dispone que para tener derecho cada año a las vacaciones, el trabajador debe haber prestado servicios, como mínimo, la mitad de los días hábiles del calendario laboral."
+  },
+  {
+    "id": 39,
+    "q": "El sistema de 'estabilidad impropia' que rige en Argentina significa que:",
+    "options": [
+      "El empleador no puede despedir a un trabajador sin causa justificada y debe reincorporarlo.",
+      "El empleador puede despedir sin causa, pero debe pagar una indemnización tarifada.",
+      "El trabajador no puede renunciar a su empleo sin el consentimiento del empleador."
+    ],
+    "answer": 1,
+    "explanation": "La estabilidad impropia no garantiza la perduración del vínculo, pero en caso de despido sin causa, el empleador debe pagar una indemnización. Intenta disuadir el despido imponiendo una sanción económica."
+  },
+  {
+    "id": 40,
+    "q": "El 'preaviso' es la notificación de la extinción del contrato de trabajo. Si el empleador omite darlo, debe pagar:",
+    "options": [
+      "Una multa a favor del Estado.",
+      "Una indemnización sustitutiva.",
+      "El doble de la indemnización por antigüedad."
+    ],
+    "answer": 1,
+    "explanation": "La falta de notificación del preaviso genera el derecho de la otra parte a percibir una 'indemnización sustitutiva' equivalente a la remuneración que hubiera percibido durante ese lapso."
+  },
+  {
+    "id": 41,
+    "q": "Cuando un trabajador decide dar por terminado el contrato ante un incumplimiento grave del empleador, se habla de:",
+    "options": [
+      "Renuncia.",
+      "Despido directo.",
+      "Despido indirecto."
+    ],
+    "answer": 2,
+    "explanation": "El despido indirecto ocurre cuando el trabajador se considera despedido por una justa causa (injuria) imputable al empleador, debiendo notificarlo por escrito."
+  },
+  {
+    "id": 42,
+    "q": "Para que un despido tenga 'justa causa', debe fundarse en una:",
+    "options": [
+      "Inconveniencia para la empresa.",
+      "Simple falta de confianza.",
+      "Injuria de gravedad que impida la continuación del contrato."
+    ],
+    "answer": 2,
+    "explanation": "La justa causa para el despido se configura por una 'injuria', que es un grave ilícito contractual que justifica la máxima sanción. Su gravedad es valorada por el juez."
+  },
+  {
+    "id": 43,
+    "q": "La indemnización por antigüedad (art. 245 LCT) se calcula, como regla general, como:",
+    "options": [
+      "Un mes de sueldo por cada año de antigüedad, sin importar la fracción.",
+      "Un mes de remuneración por cada año de antigüedad o fracción mayor a tres meses.",
+      "Dos meses de sueldo por cada año de antigüedad."
+    ],
+    "answer": 1,
+    "explanation": "La pauta general del art. 245 LCT es que la indemnización es igual a un mes de remuneración por cada año de antigüedad o fracción mayor a tres meses."
+  },
+  {
+    "id": 44,
+    "q": "La 'integración del mes de despido' corresponde cuando:",
+    "options": [
+      "El trabajador renuncia intempestivamente.",
+      "El empleador despide sin otorgar el preaviso.",
+      "El contrato finaliza durante el período de prueba."
+    ],
+    "answer": 1,
+    "explanation": "La integración del mes de despido procede si el empleador despide al trabajador sin otorgarle el preaviso, y consiste en pagarle los salarios correspondientes a los días que faltan para terminar el mes."
+  },
+  {
+    "id": 45,
+    "q": "La Ley 26.388 de delitos informáticos en Argentina es una ley que:",
+    "options": [
+      "Crea un nuevo Código Penal exclusivo para delitos informáticos.",
+      "Modifica y sustituye artículos del Código Penal vigente.",
+      "Establece únicamente sanciones administrativas y multas."
+    ],
+    "answer": 1,
+    "explanation": "La Ley 26.388 no es una ley especial, sino que modifica y agrega diversos artículos del Código Penal vigente para tipificar delitos cometidos a través de medios informáticos."
+  },
+  {
+    "id": 46,
+    "q": "La 'responsabilidad civil extracontractual' surge cuando:",
+    "options": [
+      "Una de las partes de un contrato no cumple con sus obligaciones.",
+      "Se causa un daño a otra persona sin que exista un vínculo contractual previo.",
+      "Un profesional informático da un consejo erróneo a su cliente."
+    ],
+    "answer": 1,
+    "explanation": "La responsabilidad extracontractual se produce por un daño causado donde no existe un vínculo derivado de un contrato previo entre el causante del daño y la víctima."
+  },
+  {
+    "id": 47,
+    "q": "La Ley 26.032 sobre buscadores de internet establece que su responsabilidad por contenidos ilícitos de terceros es:",
+    "options": [
+      "Objetiva: son responsables siempre, por el solo hecho de enlazar el contenido.",
+      "Subjetiva: son responsables solo a partir del conocimiento efectivo del contenido ilícito y la falta de acción.",
+      "Inexistente: nunca son responsables por los contenidos de terceros."
+    ],
+    "answer": 1,
+    "explanation": "La Ley 26.032 consagra la responsabilidad subjetiva, lo que significa que el buscador solo es responsable si, una vez notificado fehacientemente del contenido ilícito, no actúa para retirarlo."
+  },
+  {
+    "id": 48,
+    "q": "La Propiedad Intelectual se divide principalmente en dos categorías:",
+    "options": [
+      "Patentes y Marcas.",
+      "Propiedad Industrial y Derechos de Autor.",
+      "Derechos Patrimoniales y Derechos Morales."
+    ],
+    "answer": 1,
+    "explanation": "Según la Organización Mundial de la Propiedad Intelectual (OMPI), la propiedad intelectual se divide en dos categorías: la Propiedad Industrial (invenciones, marcas, etc.) y el Derecho de Autor (obras literarias y artísticas)."
+  },
+  {
+    "id": 49,
+    "q": "Un 'Modelo de Utilidad' protege:",
+    "options": [
+      "Invenciones de alta complejidad técnica, como un nuevo motor.",
+      "El aspecto estético y ornamental de un producto.",
+      "Invenciones de menor complejidad, como una mejora a una herramienta existente."
+    ],
+    "answer": 2,
+    "explanation": "Los Modelos de Utilidad se aplican a invenciones de menor complejidad técnica o que constituyen una mejora o nuevo diseño de un objeto. Su protección en Argentina es de 10 años."
+  },
+  {
+    "id": 50,
+    "q": "La protección del Derecho de Autor abarca:",
+    "options": [
+      "Las ideas, teorías y conceptos abstractos.",
+      "Únicamente la expresión de un contenido, pero no las ideas.",
+      "Solo las obras que han sido registradas formalmente."
+    ],
+    "answer": 1,
+    "explanation": "La protección del derecho de autor abarca únicamente la forma en que se expresa una idea (la obra), pero no las ideas en sí mismas, que son de libre uso."
+  },
+  {
+    "id": 51,
+    "q": "Los 'derechos conexos' en el ámbito del derecho de autor protegen a:",
+    "options": [
+      "Los autores originales de la obra.",
+      "Los intermediarios como artistas intérpretes, productores y organismos de radiodifusión.",
+      "Los usuarios finales que consumen la obra."
+    ],
+    "answer": 1,
+    "explanation": "A diferencia de los derechos de autor, los derechos conexos se otorgan a los titulares intermediarios en la producción, grabación o difusión de las obras, como músicos, actores o editoriales."
+  },
+  {
+    "id": 52,
+    "q": "El conjunto de líneas de texto con las instrucciones que debe seguir una computadora, elaborado por un programador, se denomina:",
+    "options": [
+      "Algoritmo",
+      "Código Fuente",
+      "Software de Sistema"
+    ],
+    "answer": 1,
+    "explanation": "El Código Fuente es el conjunto de líneas de texto escritas en un lenguaje de programación que contienen las instrucciones para la computadora. Debe ser compilado o interpretado para ser ejecutado."
+  },
+  {
+    "id": 53,
+    "q": "¿Qué tipo de software tiene como objetivo desvincular al usuario de los detalles de la computadora, como un sistema operativo?",
+    "options": [
+      "Software de Aplicación",
+      "Software de Programación",
+      "Software de Sistema"
+    ],
+    "answer": 2,
+    "explanation": "El Software de Sistema gestiona los recursos del hardware y provee servicios a los programas de aplicación. Su objetivo es desvincular al usuario y al programador de los detalles de bajo nivel de la computadora."
+  },
+  {
+    "id": 54,
+    "q": "Para que una base de datos sea protegida por el derecho de autor, la selección o disposición de su contenido debe ser:",
+    "options": [
+      "Extensa en cantidad de datos.",
+      "Original, reflejando la personalidad del autor.",
+      "Almacenada en un formato digital específico."
+    ],
+    "answer": 1,
+    "explanation": "Las bases de datos son protegidas como compilaciones si la selección o disposición de los materiales que la constituyen es original. La originalidad es el requisito clave."
+  },
+  {
+    "id": 55,
+    "q": "La Ley de Economía del Conocimiento (Ley 27.506) busca impulsar actividades productivas a través de:",
+    "options": [
+      "Subsidios directos a las empresas.",
+      "La creación de empresas estatales de tecnología.",
+      "Incentivos fiscales como reducción de impuestos y bonos de crédito fiscal."
+    ],
+    "answer": 2,
+    "explanation": "La Ley de Economía del Conocimiento promueve sectores como el software, la biotecnología y la industria 4.0 mediante beneficios fiscales, como una alícuota reducida en el Impuesto a las Ganancias y un bono de crédito fiscal por contribuciones patronales."
+  },
+  {
+    "id": 56,
+    "q": "¿Cuál es la diferencia fundamental entre Criminología y Criminalística?",
+    "options": [
+      "La Criminología se basa en ciencias exactas y la Criminalística en ciencias sociales.",
+      "La Criminología estudia el 'porqué' del delito, mientras que la Criminalística estudia el 'cómo' ocurrieron los hechos.",
+      "Son dos términos para la misma disciplina, pero usados en distintos países."
+    ],
+    "answer": 1,
+    "explanation": "La Criminología estudia las causas y razones del fenómeno criminal (el porqué), basándose en la psicología y sociología. La Criminalística aplica métodos de ciencias naturales para investigar la escena del crimen y determinar cómo ocurrieron los hechos."
+  },
+  {
+    "id": 57,
+    "q": "El principio de la Criminalística que establece que en la escena del crimen siempre se produce un intercambio de materiales entre la víctima, el victimario y el lugar se llama:",
+    "options": [
+      "Principio de Uso",
+      "Principio de Correspondencia",
+      "Principio de Intercambio"
+    ],
+    "answer": 2,
+    "explanation": "El Principio de Intercambio (a menudo asociado con Edmond Locard) postula que todo contacto deja un rastro, implicando un intercambio de materiales entre los elementos presentes en la escena del crimen."
+  },
+  {
+    "id": 58,
+    "q": "En el proceso penal, ¿qué rol cumple el Fiscal?",
+    "options": [
+      "Decidir sobre la culpabilidad o inocencia del acusado en el juicio.",
+      "Dirigir la investigación y ejercer la acción penal en nombre del Estado.",
+      "Garantizar los derechos del imputado, solicitando medidas de investigación a su favor."
+    ],
+    "answer": 1,
+    "explanation": "Al Fiscal le compete dirigir la investigación preparatoria y sostener la acusación durante el juicio. Es quien ejerce la acción penal pública."
+  },
+  {
+    "id": 59,
+    "q": "Las medidas de investigación que implican injerencia en derechos fundamentales (ej. un allanamiento) deben ser autorizadas por:",
+    "options": [
+      "El Fiscal a cargo de la investigación.",
+      "El Jefe de la Policía.",
+      "El Juez de Garantías."
+    ],
+    "answer": 2,
+    "explanation": "El Juez de Garantías es el magistrado que controla la legalidad de la investigación y debe autorizar las medidas que afectan derechos constitucionales, como allanamientos, secuestros o intercepciones de comunicaciones."
+  },
+  {
+    "id": 60,
+    "q": "La principal diferencia entre una 'prueba científica' y una 'prueba pericial' es que:",
+    "options": [
+      "La prueba científica es siempre irrefutable y la pericial no.",
+      "La prueba pericial requiere la aplicación de técnicas con rigurosidad legal y es la autoridad judicial quien la admite en el proceso.",
+      "La prueba científica la realiza un científico y la pericial un técnico."
+    ],
+    "answer": 1,
+    "explanation": "Mientras que una prueba científica se basa en el método científico para obtener conclusiones, una prueba pericial debe además cumplir con los requisitos formales y procesales que establece la ley para ser admitida y valorada en un juicio."
+  },
+  {
+    "id": 61,
+    "q": "¿Qué es la 'evidencia digital'?",
+    "options": [
+      "Cualquier evidencia física que se encuentra en una escena del crimen.",
+      "Únicamente los archivos borrados de una computadora.",
+      "Datos procesados electrónicamente y almacenados en un medio digital que pueden servir como evidencia."
+    ],
+    "answer": 2,
+    "explanation": "La evidencia digital es el objeto de estudio de la Informática Forense. Es cualquier dato con valor probatorio que ha sido almacenado o transmitido en formato digital, como un correo, un log, una foto digital, etc."
+  },
+  {
+    "id": 62,
+    "q": "La 'justicia federal' en Argentina es una justicia de:",
+    "options": [
+      "Excepción, que actúa solo en los casos previstos por la Constitución Nacional.",
+      "Ordinaria, que resuelve la mayoría de los casos.",
+      "Única instancia, cuyas decisiones no pueden ser apeladas."
+    ],
+    "answer": 0,
+    "explanation": "La competencia federal es de excepción. Interviene solo en materias específicas que la Constitución y las leyes le asignan (ej. narcotráfico, delitos contra la administración pública nacional, etc.). La justicia ordinaria es la provincial."
+  },
+  {
+    "id": 63,
+    "q": "En el fuero Civil, las partes de un proceso se denominan:",
+    "options": [
+      "Fiscal y Defensor.",
+      "Actor y Demandado.",
+      "Acusador y Acusado."
+    ],
+    "answer": 1,
+    "explanation": "En los procesos civiles, quien inicia la acción es el 'actor' (o demandante) y contra quien se dirige la acción es el 'demandado'."
+  },
+  {
+    "id": 64,
+    "q": "Un 'Perito Oficial' es aquel que:",
+    "options": [
+      "Es propuesto por la parte demandada en un juicio.",
+      "Es nombrado por una autoridad estatal y forma parte de la planta permanente de un ente estatal.",
+      "Es elegido por sorteo de una lista de profesionales inscriptos."
+    ],
+    "answer": 1,
+    "explanation": "El Perito Oficial es un funcionario público que trabaja en organismos estatales como las Asesorías Periciales o la Policía Científica, y es designado por la autoridad judicial para intervenir en los casos."
+  },
+  {
+    "id": 65,
+    "q": "¿Qué se entiende por 'volcado de memoria' (memory dump) en informática forense?",
+    "options": [
+      "Una copia exacta del contenido del disco duro.",
+      "Un registro del contenido de la memoria RAM en un momento concreto.",
+      "Un listado de los programas instalados en el sistema."
+    ],
+    "answer": 1,
+    "explanation": "Un volcado de memoria es una copia del contenido de la memoria principal (RAM) de un sistema en un instante de tiempo. Se utiliza para analizar el estado del sistema sin alterarlo significativamente."
+  },
+  {
+    "id": 66,
+    "q": "El análisis de la memoria RAM es crucial porque puede revelar información que no se encuentra en el disco, como:",
+    "options": [
+      "El número de serie del procesador.",
+      "Contraseñas, claves de cifrado y actividad de red reciente.",
+      "La fecha de fabricación de la placa madre."
+    ],
+    "answer": 1,
+    "explanation": "La memoria RAM contiene información volátil muy valiosa, como procesos en ejecución, conexiones de red activas, contraseñas en texto plano, claves de cifrado y fragmentos de archivos que no llegaron a guardarse en disco."
+  },
+  {
+    "id": 67,
+    "q": "Una obligación de 'no hacer' consiste en:",
+    "options": [
+      "La entrega de una cosa determinada.",
+      "La prestación de un servicio o la realización de un hecho.",
+      "Una inactividad o abstención por parte del deudor."
+    ],
+    "answer": 2,
+    "explanation": "La obligación de no hacer impone al deudor el deber de abstenerse de realizar una acción que, de no existir la obligación, podría efectuar lícitamente. Por ejemplo, no instalar un comercio en cierto lugar."
+  },
+  {
+    "id": 68,
+    "q": "Según la 'Teoría objetiva' de la naturaleza jurídica de la obligación, el foco está puesto en:",
+    "options": [
+      "El poder del acreedor sobre un hecho del deudor.",
+      "El sometimiento del patrimonio del deudor a la acción del acreedor.",
+      "La presión psicológica que ejercen los medios legales sobre el deudor."
+    ],
+    "answer": 1,
+    "explanation": "La teoría objetiva considera que la obligación es el sometimiento del patrimonio del deudor a la acción del acreedor. El interés del acreedor se protege a través de la ejecución de los bienes del deudor."
+  },
+  {
+    "id": 69,
+    "q": "En el contrato de 'Franquicia', el franquiciante otorga al franquiciado el derecho a:",
+    "options": [
+      "Adquirir mercaderías para revenderlas con un descuento.",
+      "Utilizar un sistema para comercializar bienes o servicios bajo el nombre o marca del franquiciante.",
+      "Promover negocios por cuenta de otra empresa de manera estable."
+    ],
+    "answer": 1,
+    "explanation": "La franquicia consiste en la cesión de un sistema probado de negocio, que incluye la marca, el know-how y la asistencia técnica, a cambio de una contraprestación económica."
+  },
+  {
+    "id": 70,
+    "q": "Un contrato de 'Comodato' es esencialmente:",
+    "options": [
+      "Oneroso, ya que siempre se paga un precio.",
+      "Gratuito, ya que se basa en la entrega de una cosa para su uso sin contraprestación.",
+      "Aleatorio, porque depende de un hecho incierto."
+    ],
+    "answer": 1,
+    "explanation": "El Comodato o 'préstamo de uso' es un contrato por el cual una parte entrega a otra una cosa no fungible para que la use gratuitamente y luego la restituya. La gratuidad es una de sus características esenciales."
+  },
+  {
+    "id": 71,
+    "q": "¿Qué es el 'salario mínimo vital y móvil'?",
+    "options": [
+      "La remuneración promedio de una determinada actividad.",
+      "La menor remuneración que debe percibir en efectivo un trabajador en su jornada legal.",
+      "Un monto de referencia para calcular indemnizaciones, no obligatorio como salario."
+    ],
+    "answer": 1,
+    "explanation": "El art. 116 de la LCT lo define como la menor remuneración que debe percibir en efectivo un trabajador sin cargas de familia, en su jornada legal de trabajo, para asegurarle una subsistencia adecuada."
+  },
+  {
+    "id": 72,
+    "q": "Si un trabajador presta servicios en un día feriado nacional, ¿cómo debe ser remunerado?",
+    "options": [
+      "Con su salario normal, sin adicionales.",
+      "Con un recargo del 50% sobre su salario habitual.",
+      "Con la remuneración normal más una cantidad igual (pago doble)."
+    ],
+    "answer": 2,
+    "explanation": "El artículo 166 de la LCT establece que los trabajadores que presten servicios en días feriados cobrarán la remuneración normal de los días laborales más una cantidad igual."
+  },
+  {
+    "id": 73,
+    "q": "Las 'licencias especiales' (por matrimonio, nacimiento de hijo, etc.) son períodos en los que el trabajador:",
+    "options": [
+      "No asiste a trabajar y no percibe remuneración.",
+      "Puede ausentarse con goce de sueldo por las causas previstas en la ley.",
+      "Debe compensar las horas no trabajadas en otro momento."
+    ],
+    "answer": 1,
+    "explanation": "Las licencias especiales son permisos pagos que la ley otorga al trabajador para que pueda ausentarse por acontecimientos familiares o personales específicos sin perder su remuneración."
+  },
+  {
+    "id": 74,
+    "q": "El principio de 'irrenunciabilidad de los derechos' laborales significa que:",
+    "options": [
+      "El trabajador no puede renunciar a su empleo.",
+      "Cualquier pacto por el cual el trabajador renuncie a derechos otorgados por la ley o convenios es nulo.",
+      "El empleador no puede renunciar a su poder de dirección."
+    ],
+    "answer": 1,
+    "explanation": "Este principio fundamental protege al trabajador impidiendo que, aun por su propia voluntad, pueda privarse de los derechos y garantías que le otorga la legislación laboral, considerándose nulo cualquier pacto en contrario."
+  },
+  {
+    "id": 75,
+    "q": "Un 'Contrato de Trabajo Eventual' se utiliza para:",
+    "options": [
+      "Cubrir las necesidades normales y permanentes de la empresa.",
+      "Atender exigencias extraordinarias y transitorias de la empresa.",
+      "Contratar personal durante una época específica del año que se repite cíclicamente."
+    ],
+    "answer": 1,
+    "explanation": "El contrato eventual está dirigido a cubrir un puesto de trabajo en circunstancias excepcionales (ej. un pico de producción inesperado) o para la realización de una obra o servicio concreto y temporal."
+  },
+  {
+    "id": 76,
+    "q": "La principal función de una 'Marca' en la propiedad industrial es:",
+    "options": [
+      "Proteger una invención técnica.",
+      "Diferenciar los productos o servicios de una empresa de los de las demás.",
+      "Otorgar derechos sobre una obra artística."
+    ],
+    "answer": 1,
+    "explanation": "Una marca es un signo que permite a los consumidores identificar y diferenciar los productos o servicios de una empresa de los de sus competidores."
+  },
+  {
+    "id": 77,
+    "q": "La protección de un 'Diseño Industrial' se aplica a:",
+    "options": [
+      "Las características funcionales y técnicas de un producto.",
+      "Las características originales, ornamentales y no funcionales de un producto.",
+      "El software que controla el funcionamiento de un producto."
+    ],
+    "answer": 1,
+    "explanation": "El diseño industrial protege el aspecto estético de un artículo, es decir, sus características ornamentales o de forma que no cumplen una función técnica."
+  },
+  {
+    "id": 78,
+    "q": "El 'delito informático' de acceso indebido a un sistema informático se conoce comúnmente como:",
+    "options": [
+      "Phishing",
+      "Hacking",
+      "Ransomware"
+    ],
+    "answer": 1,
+    "explanation": "La Ley 26.388 tipifica el acceso a un sistema o dato informático de acceso restringido, sin la debida autorización. Esta conducta se asocia popularmente con el término 'hacking'."
+  },
+  {
+    "id": 79,
+    "q": "En el contexto del derecho informático, el 'fraude informático' consiste en:",
+    "options": [
+      "Dañar o alterar datos para impedir el funcionamiento de un sistema.",
+      "Manipular datos informáticos para obtener un beneficio patrimonial ilegítimo.",
+      "Publicar información privada de una persona sin su consentimiento."
+    ],
+    "answer": 1,
+    "explanation": "El fraude informático implica la manipulación de un sistema informático (inserción de datos falsos, programas especiales, etc.) con el fin de procurar un lucro indebido para sí o para un tercero."
+  },
+  {
+    "id": 80,
+    "q": "El rol de la 'Policía Científica' en una investigación penal es:",
+    "options": [
+      "Dirigir la investigación y decidir qué pruebas producir.",
+      "Efectuar los estudios técnicos y científicos requeridos para descubrir las circunstancias del delito.",
+      "Juzgar la validez de las pruebas presentadas en el juicio."
+    ],
+    "answer": 1,
+    "explanation": "La Policía Científica es un órgano técnico que auxilia a la justicia realizando pericias y análisis sobre las evidencias recolectadas para esclarecer el hecho delictivo."
+  },
+  {
+    "id": 81,
+    "q": "En un proceso penal, ¿qué es un 'órgano de prueba'?",
+    "options": [
+      "El objeto sobre el que recae la prueba, como un arma o un documento.",
+      "El procedimiento legal para introducir la prueba, como una pericia.",
+      "El sujeto que porta un elemento de prueba y lo transmite al proceso, como un testigo o un perito."
+    ],
+    "answer": 2,
+    "explanation": "El órgano de prueba es la persona (testigo, perito) o el documento que contiene la información relevante y la introduce en el proceso judicial."
+  },
+  {
+    "id": 82,
+    "q": "Si un perito informático debe actuar en un juicio por jurados, ¿puede ser interrogado por los jurados?",
+    "options": [
+      "Sí, los jurados pueden preguntar libremente para aclarar sus dudas.",
+      "No, los jueces y jurados no pueden formular preguntas a quienes declaran.",
+      "Solo si el juez lo autoriza expresamente."
+    ],
+    "answer": 1,
+    "explanation": "La normativa sobre juicio por jurados establece que 'Los jueces y jurados no podrán por ningún concepto formular preguntas a quienes comparezcan a declarar al juicio'. El interrogatorio es conducido exclusivamente por las partes."
+  },
+  {
+    "id": 83,
+    "q": "Los 'colegios o consejos profesionales' tienen como una de sus finalidades principales:",
+    "options": [
+      "Fijar los honorarios mínimos y máximos de sus matriculados.",
+      "Representar gremialmente a los profesionales en negociaciones salariales.",
+      "Velar por el cumplimiento de una buena labor profesional y la práctica ética del trabajo."
+    ],
+    "answer": 2,
+    "explanation": "Los colegios profesionales regulan el ejercicio de la profesión, controlan la matrícula y tienen potestad disciplinaria sobre sus miembros para asegurar un ejercicio ético y competente."
+  },
+  {
+    "id": 84,
+    "q": "En un análisis forense de memoria, ¿qué es un 'raw dump'?",
+    "options": [
+      "Un volcado de memoria generado por el sistema operativo al fallar (Crash dump).",
+      "Un volcado de memoria completo que contiene todo el contenido de la RAM sin procesar.",
+      "Un resumen de los procesos más importantes en ejecución."
+    ],
+    "answer": 1,
+    "explanation": "Un 'Raw dump' es una copia bit a bit, completa y no estructurada, del contenido de la memoria física en el momento de la adquisición."
+  },
+  {
+    "id": 85,
+    "q": "Una 'obligación de dar para restituir' implica que el deudor:",
+    "options": [
+      "Debe entregar una cosa para transferir su dominio.",
+      "Debe devolver una cosa a su dueño.",
+      "Debe crear una cosa nueva y entregarla."
+    ],
+    "answer": 1,
+    "explanation": "En las obligaciones de dar para restituir, el deudor no es el dueño de la cosa, sino que la posee o la tiene en su poder y debe devolverla a su legítimo propietario (ej. la obligación del locatario de devolver el inmueble al finalizar el contrato)."
+  },
+  {
+    "id": 86,
+    "q": "El consentimiento en los contratos se forma con:",
+    "options": [
+      "La sola manifestación de voluntad de una de las partes.",
+      "La firma del contrato ante un escribano público.",
+      "La oferta de una de las partes y la aceptación de la otra."
+    ],
+    "answer": 2,
+    "explanation": "El consentimiento, elemento esencial de los contratos, se perfecciona con la recepción de la aceptación de una oferta o por una conducta de las partes que sea suficiente para demostrar la existencia de un acuerdo."
+  },
+  {
+    "id": 87,
+    "q": "El contrato de 'Fideicomiso' implica que una persona (fiduciante) transmite la propiedad de bienes a otra (fiduciario) para que:",
+    "options": [
+      "Los adquiera para sí mismo de forma definitiva.",
+      "Los administre en beneficio de un tercero (beneficiario) y luego los transmita a un fideicomisario.",
+      "Los venda inmediatamente y reparta el dinero entre sus herederos."
+    ],
+    "answer": 1,
+    "explanation": "En el fideicomiso, el fiduciario recibe la propiedad de los bienes (propiedad fiduciaria) con el encargo de administrarlos para cumplir una finalidad determinada en beneficio de otra persona, y al final del plazo, entregarlos a quien corresponda."
+  },
+  {
+    "id": 88,
+    "q": "El 'principio de gratuidad' en el derecho del trabajo garantiza que:",
+    "options": [
+      "El trabajador no debe pagar por los elementos de trabajo que le provee el empleador.",
+      "El trabajador tiene derecho a acceder a la justicia laboral sin costo.",
+      "El empleador debe proveer transporte gratuito al trabajador."
+    ],
+    "answer": 1,
+    "explanation": "El principio de gratuidad asegura que el trabajador pueda efectuar reclamos judiciales o administrativos vinculados a su contrato de trabajo sin tener que abonar tasas, sellados u otros costos."
+  },
+  {
+    "id": 89,
+    "q": "El 'deber de ocupación' del empleador significa que este debe:",
+    "options": [
+      "Contratar a todos los postulantes que se presenten a una búsqueda.",
+      "Proporcionar al trabajador tareas efectivas acordes a su calificación.",
+      "Garantizar que el lugar de trabajo esté siempre ocupado."
+    ],
+    "answer": 1,
+    "explanation": "El art. 78 de la LCT establece que el empleador deberá garantizar al trabajador ocupación efectiva, de acuerdo con su calificación o categoría profesional, salvo que existan motivos fundados que lo impidan."
+  },
+  {
+    "id": 90,
+    "q": "El 'descanso diario' entre dos jornadas de trabajo tiene como finalidad:",
+    "options": [
+      "Permitir al trabajador realizar horas extras.",
+      "Permitir que el trabajador se recupere del esfuerzo psicofísico realizado.",
+      "Facilitar la rotación de turnos en la empresa."
+    ],
+    "answer": 1,
+    "explanation": "El descanso entre jornadas es el tiempo mínimo que necesita el trabajador para recuperarse de la fatiga. Su función es higiénica y biológica, esencial para preservar la salud."
+  },
+  {
+    "id": 91,
+    "q": "El plazo de preaviso que debe otorgar el trabajador al empleador para renunciar es de:",
+    "options": [
+      "15 días.",
+      "1 mes.",
+      "No está obligado a dar preaviso."
+    ],
+    "answer": 0,
+    "explanation": "La ley (art. 231 LCT) establece que el plazo de preaviso es de 15 días cuando la decisión la toma el trabajador y de 15 días, 1 mes o 2 meses (según la antigüedad) cuando la toma el empleador."
+  },
+  {
+    "id": 92,
+    "q": "El principio de 'invariabilidad de la causa' del despido significa que:",
+    "options": [
+      "La causa del despido no puede ser modificada por el juez.",
+      "El empleador no puede cambiar en el juicio los motivos del despido que consignó en la notificación.",
+      "Una vez notificado el despido, este no puede ser revocado."
+    ],
+    "answer": 1,
+    "explanation": "Este principio (art. 243 LCT) impide que el empleador, en un juicio posterior, intente justificar el despido con causas distintas a las que expresó en la comunicación escrita de la extinción."
+  },
+  {
+    "id": 93,
+    "q": "La Ley de Propiedad Intelectual argentina (11.723) protege al software considerándolo:",
+    "options": [
+      "Una invención patentable.",
+      "Una obra literaria, científica o artística.",
+      "Un modelo de utilidad."
+    ],
+    "answer": 1,
+    "explanation": "La legislación argentina, en línea con los tratados internacionales, protege los programas de computación (tanto fuente como objeto) bajo el régimen del derecho de autor, incluyéndolos en la enumeración de obras protegidas."
+  },
+  {
+    "id": 94,
+    "q": "El 'Convenio de Berna' es un tratado internacional fundamental para la protección de:",
+    "options": [
+      "Las marcas y patentes.",
+      "Los derechos de los trabajadores.",
+      "Las obras literarias y artísticas (derecho de autor)."
+    ],
+    "answer": 2,
+    "explanation": "El Convenio de Berna para la Protección de las Obras Literarias y Artísticas es el pilar del sistema internacional de derecho de autor, estableciendo principios como el de trato nacional y la protección sin formalidades."
+  },
+  {
+    "id": 95,
+    "q": "¿Qué es la 'Criminalística'?",
+    "options": [
+      "La disciplina que estudia las causas sociológicas del delito.",
+      "La disciplina que aplica conocimientos y técnicas científicas al examen de material relacionado con un delito.",
+      "La rama del derecho que establece las penas para los delitos."
+    ],
+    "answer": 1,
+    "explanation": "La Criminalística es la ciencia forense que utiliza métodos de las ciencias naturales para examinar el material sensible significativo (evidencias) y así auxiliar a la justicia en la investigación de un hecho delictivo."
+  },
+  {
+    "id": 96,
+    "q": "En el sistema judicial argentino, la 'Justicia Provincial' es considerada la justicia:",
+    "options": [
+      "De excepción.",
+      "Ordinaria o local.",
+      "Exclusivamente para delitos menores."
+    ],
+    "answer": 1,
+    "explanation": "La Justicia Provincial es la justicia ordinaria, que resuelve la mayoría de los casos en todo aquello donde no interviene la Justicia Federal, que es de excepción."
+  },
+  {
+    "id": 97,
+    "q": "En un proceso civil, si una de las partes solicita una pericia, ¿quién suele ser el perito designado?",
+    "options": [
+      "Un Perito Oficial de la Policía Científica.",
+      "Un Perito de Oficio, elegido de una lista de inscriptos.",
+      "Un Perito de Parte, contratado directamente por el juez."
+    ],
+    "answer": 1,
+    "explanation": "En los procesos no penales (civil, laboral, etc.), cuando se requiere una pericia, lo habitual es que el juez designe por sorteo a un Perito de Oficio de las listas de profesionales inscriptos en el poder judicial."
+  },
+  {
+    "id": 98,
+    "q": "Para ser perito en una materia cuya profesión está reglamentada, el requisito principal es:",
+    "options": [
+      "Tener experiencia práctica reconocida.",
+      "Poseer título habilitante en la materia.",
+      "Ser mayor de 30 años."
+    ],
+    "answer": 1,
+    "explanation": "Tanto el Código Procesal Civil y Comercial como el Penal establecen que si la profesión está reglamentada, los peritos deben tener el título habilitante correspondiente. Solo en caso de no haberlos, se puede designar a una persona idónea sin título."
+  },
+  {
+    "id": 99,
+    "q": "En un análisis forense de memoria, buscar el 'contexto de seguridad de cada proceso' puede ayudar a:",
+    "options": [
+      "Determinar la marca del procesador.",
+      "Recuperar archivos borrados del disco.",
+      "Identificar la presencia de malware y el nivel de privilegios con que se ejecuta."
+    ],
+    "answer": 2,
+    "explanation": "Analizar el token de seguridad de un proceso (en Windows) permite saber con qué privilegios se está ejecutando, lo que es vital para detectar si un malware ha escalado privilegios para tomar control del sistema."
+  },
+  {
+    "id": 100,
+    "q": "¿Cuál es la consecuencia si el deudor incumple una 'obligación de no hacer'?",
+    "options": [
+      "El acreedor puede exigir que se destruya lo hecho o solicitar autorización judicial para hacerlo a costa del deudor.",
+      "La obligación se extingue automáticamente sin responsabilidad.",
+      "El deudor debe pagar el doble del valor de la prestación."
+    ],
+    "answer": 0,
+    "explanation": "Si el deudor ejecuta el hecho que debía abstenerse de hacer, el acreedor puede exigir que las cosas vuelvan a su estado anterior, incluyendo la destrucción de lo hecho, siempre que no sea un abuso de derecho."
+  },
+  {
+    "id": 101,
+    "q": "Un 'Contrato de Permuta' es aquel en el que las partes se obligan a:",
+    "options": [
+      "Transferirse recíprocamente el dominio de cosas que no son dinero.",
+      "Prestar un servicio a cambio de una cosa.",
+      "Dar en alquiler una cosa a cambio de otra cosa."
+    ],
+    "answer": 0,
+    "explanation": "La permuta es el contrato de 'trueque', donde las partes se transfieren mutuamente la propiedad de cosas. Si hubiera una diferencia en dinero, para que siga siendo permuta, el valor de la cosa debe ser mayor al del dinero entregado."
+  },
+  {
+    "id": 102,
+    "q": "El 'derecho real de dominio' es el que otorga a su titular las facultades de:",
+    "options": [
+      "Usar y gozar de una cosa ajena por un tiempo determinado.",
+      "Usar, gozar y disponer material y jurídicamente de una cosa.",
+      "Perseguir la cosa en poder de quien se encuentre para garantizar un crédito."
+    ],
+    "answer": 1,
+    "explanation": "El dominio es el derecho real más completo, ya que confiere a su titular todas las facultades sobre la cosa: usarla (ius utendi), percibir sus frutos (ius fruendi) y disponer de ella, ya sea vendiéndola, donándola o destruyéndola (ius abutendi)."
+  },
+  {
+    "id": 103,
+    "q": "En el Derecho Laboral, el 'trabajo en negro' se refiere a:",
+    "options": [
+      "Un contrato de trabajo a tiempo parcial.",
+      "Una relación laboral no registrada por el empleador.",
+      "Un trabajo realizado en horario nocturno."
+    ],
+    "answer": 1,
+    "explanation": "El trabajo 'en negro' o no registrado es una relación laboral clandestina, donde el empleador incumple su obligación de registrar al trabajador, privándolo de sus derechos (aportes jubilatorios, obra social, ART, etc.)."
+  },
+  {
+    "id": 104,
+    "q": "El 'Sueldo Anual Complementario' (SAC) o aguinaldo consiste en:",
+    "options": [
+      "Un premio anual que el empleador paga si la empresa tuvo ganancias.",
+      "El 50% de la mayor remuneración mensual devengada, pagado en dos cuotas.",
+      "Un mes de sueldo extra que se paga solo a los trabajadores con hijos."
+    ],
+    "answer": 1,
+    "explanation": "El SAC es un salario diferido que se paga en dos cuotas (junio y diciembre). Cada cuota es equivalente al 50% de la mayor remuneración mensual devengada en el semestre correspondiente."
+  },
+  {
+    "id": 105,
+    "q": "La Ley de Contrato de Trabajo, ¿se aplica a los empleados de la Administración Pública Nacional?",
+    "options": [
+      "Sí, a todos sin excepción.",
+      "No, están excluidos y se rigen por sus propios estatutos, salvo inclusión expresa.",
+      "Solo se aplica a los empleados municipales."
+    ],
+    "answer": 1,
+    "explanation": "El art. 2 de la LCT excluye de su ámbito de aplicación a los dependientes de la Administración Pública (Nacional, Provincial o Municipal), quienes se rigen por el derecho administrativo, a menos que un acto expreso los incluya."
+  },
+  {
+    "id": 106,
+    "q": "Un 'Contrato de Agencia' se da cuando una parte (agente) se obliga a:",
+    "options": [
+      "Comprar mercaderías para revenderlas en una zona determinada.",
+      "Promover negocios por cuenta de otra (empresario) de manera estable e independiente.",
+      "Realizar un acto jurídico específico en nombre y representación de otra."
+    ],
+    "answer": 1,
+    "explanation": "En el contrato de agencia, el agente es un intermediario independiente que, de forma estable y continuada, se encarga de promover negocios para el empresario a cambio de una retribución, sin asumir el riesgo de las operaciones."
+  },
+  {
+    "id": 107,
+    "q": "El derecho que tiene el titular de un derecho real de seguir la cosa en manos de quien la tenga y reclamarla se llama:",
+    "options": [
+      "Ius preferendi (derecho de preferencia).",
+      "Ius persequendi (derecho de persecución).",
+      "Ius abutendi (derecho de disposición)."
+    ],
+    "answer": 1,
+    "explanation": "El 'ius persequendi' es una de las facultades características de los derechos reales, que permite a su titular perseguir la cosa sin importar quién la posea."
+  },
+  {
+    "id": 108,
+    "q": "¿Qué son las 'indicaciones geográficas' en la propiedad industrial?",
+    "options": [
+      "El nombre comercial de una empresa.",
+      "Un signo que identifica un producto como originario de un lugar, cuando su calidad se debe a dicho origen.",
+      "Las coordenadas GPS de la fábrica de un producto."
+    ],
+    "answer": 1,
+    "explanation": "Una indicación geográfica (ej. 'Champagne', 'Roquefort') protege el nombre de un lugar para designar un producto cuyas características específicas se deben a ese origen geográfico."
+  },
+  {
+    "id": 109,
+    "q": "En el derecho de autor, cuando una obra ya no está protegida y puede ser utilizada libremente por cualquiera, se dice que está en:",
+    "options": [
+      "Dominio público.",
+      "Dominio privado.",
+      "Gestión colectiva."
+    ],
+    "answer": 0,
+    "explanation": "Una vez que expira el plazo de protección del derecho de autor, la obra pasa al dominio público, lo que significa que puede ser usada, copiada y distribuida por cualquier persona sin necesidad de autorización ni pago."
+  },
+  {
+    "id": 110,
+    "q": "Un 'algoritmo' se define como:",
+    "options": [
+      "El lenguaje utilizado para escribir un programa.",
+      "El programa ya compilado y listo para ejecutar.",
+      "Un conjunto de reglas bien definidas, ordenadas y finitas para realizar una actividad."
+    ],
+    "answer": 2,
+    "explanation": "El algoritmo es la base conceptual de todo software. Es la secuencia lógica de pasos para resolver un problema, antes de ser codificado en un lenguaje de programación."
+  },
+  {
+    "id": 111,
+    "q": "En la investigación judicial, ¿cuál es el propósito de la etapa de 'Investigación Preparatoria'?",
+    "options": [
+      "Dictar la sentencia definitiva del caso.",
+      "Reunir pruebas para preparar el juicio oral y público.",
+      "Negociar la pena entre el fiscal y el defensor."
+    ],
+    "answer": 1,
+    "explanation": "La Investigación Penal Preparatoria (IPP) tiene como fin recolectar los elementos de prueba para que el fiscal decida si acusa al imputado y lleva el caso a juicio, o si solicita el sobreseimiento."
+  },
+  {
+    "id": 112,
+    "q": "El principio de la criminalística de 'Reconstrucción' se refiere a:",
+    "options": [
+      "La obligación de reconstruir físicamente la escena del crimen.",
+      "El intercambio de materiales entre la víctima y el victimario.",
+      "El estudio de los indicios para reconstruir los hechos paso a paso."
+    ],
+    "answer": 2,
+    "explanation": "Una vez recopilados los indicios, el principio de reconstrucción implica analizar su relación para poder inferir y describir la secuencia de eventos que ocurrieron durante el hecho delictivo."
+  },
+  {
+    "id": 113,
+    "q": "En el proceso penal, el rol de 'particular damnificado' permite a:",
+    "options": [
+      "Cualquier ciudadano interesado participar en el juicio.",
+      "La víctima del delito participar activamente en el proceso junto al fiscal.",
+      "Un perito proponer puntos de pericia adicionales."
+    ],
+    "answer": 1,
+    "explanation": "La figura del particular damnificado permite a la víctima (o a sus herederos) constituirse como parte en el proceso penal, proponer pruebas, recurrir decisiones y colaborar con la acusación del fiscal."
+  },
+  {
+    "id": 114,
+    "q": "Un perito informático debe aceptar el cargo bajo juramento o promesa. ¿Qué implica esto?",
+    "options": [
+      "Un compromiso de desempeñar fielmente el cargo y decir la verdad.",
+      "Un acuerdo de confidencialidad con la parte que lo propuso.",
+      "La garantía de que sus honorarios serán pagados por el Estado."
+    ],
+    "answer": 0,
+    "explanation": "La aceptación del cargo con juramento es un acto formal que implica la obligación legal del perito de actuar con imparcialidad, aplicar sus conocimientos correctamente y expedirse con veracidad, bajo pena de incurrir en el delito de falso testimonio."
+  },
+  {
+    "id": 115,
+    "q": "Durante la tarea pericial en un proceso civil, ¿pueden las partes y sus abogados asistir?",
+    "options": [
+      "No, la diligencia pericial es siempre secreta.",
+      "Sí, pueden asistir y hacer observaciones, pero deben retirarse cuando los peritos deliberan.",
+      "Solo pueden asistir si el juez los autoriza de forma explícita."
+    ],
+    "answer": 1,
+    "explanation": "El Código Procesal Civil y Comercial permite a las partes y sus letrados presenciar las operaciones técnicas, garantizando el control de la prueba, pero no pueden intervenir en la deliberación y redacción de las conclusiones del perito."
+  },
+  {
+    "id": 116,
+    "q": "Si un contrato es 'unilateral', significa que:",
+    "options": [
+      "Solo interviene una persona en su celebración.",
+      "Crea obligaciones solo para una de las partes.",
+      "No necesita el consentimiento de la otra parte."
+    ],
+    "answer": 1,
+    "explanation": "Un contrato es unilateral cuando, una vez celebrado, solo una de las partes queda obligada hacia la otra. Un ejemplo es la donación, donde solo el donante tiene la obligación de entregar la cosa."
+  },
+  {
+    "id": 117,
+    "q": "El 'contrato de transporte' se caracteriza porque el transportista se obliga a:",
+    "options": [
+      "Vender un vehículo al pasajero o cargador.",
+      "Alquilar un vehículo para que otro lo conduzca.",
+      "Trasladar personas o cosas de un lugar a otro a cambio de un precio."
+    ],
+    "answer": 2,
+    "explanation": "En el contrato de transporte, la obligación principal del transportista o porteador es realizar el traslado de personas o cosas, asumiendo una obligación de resultado."
+  },
+  {
+    "id": 118,
+    "q": "El 'derecho real de usufructo' permite a su titular (usufructuario):",
+    "options": [
+      "Vender la cosa y quedarse con el dinero.",
+      "Usar y gozar de una cosa ajena, conservando su sustancia.",
+      "Construir en un terreno ajeno."
+    ],
+    "answer": 1,
+    "explanation": "El usufructo es un derecho real sobre cosa ajena que otorga el derecho de usar y percibir los frutos de la cosa, pero con la obligación de no alterar su esencia y de devolverla al finalizar el usufructo."
+  },
+  {
+    "id": 119,
+    "q": "La regla de 'la condición más beneficiosa' en el derecho laboral establece que:",
+    "options": [
+      "Una nueva norma laboral no puede empeorar las condiciones que un trabajador ya tenía.",
+      "El empleador puede modificar cualquier condición si beneficia a la empresa.",
+      "Los trabajadores con más antigüedad tienen mejores condiciones."
+    ],
+    "answer": 0,
+    "explanation": "Esta regla, parte del principio protectorio, implica que si una nueva norma modifica las condiciones laborales, no puede aplicarse para reducir los derechos o beneficios que un trabajador ya había adquirido bajo la norma anterior."
+  },
+  {
+    "id": 120,
+    "q": "Un 'contrato a tiempo parcial' es aquel en el que el trabajador:",
+    "options": [
+      "Trabaja solo los fines de semana.",
+      "Presta servicios por un número de horas inferior a las dos terceras partes de la jornada habitual.",
+      "No tiene un horario fijo de trabajo."
+    ],
+    "answer": 1,
+    "explanation": "La LCT (art. 92 ter) define al contrato a tiempo parcial como aquel en el que el trabajador se obliga a prestar servicios durante un número de horas al día o a la semana inferior a las 2/3 partes de la jornada habitual de la actividad."
+  },
+  {
+    "id": 121,
+    "q": "Los trabajadores a tiempo parcial, ¿pueden realizar horas extras?",
+    "options": [
+      "Sí, sin ningún límite.",
+      "No, está prohibido salvo en casos de peligro grave o inminente.",
+      "Sí, pero solo hasta completar la jornada completa habitual."
+    ],
+    "answer": 1,
+    "explanation": "La ley prohíbe expresamente que los trabajadores contratados a tiempo parcial realicen horas extras, con la única excepción de situaciones de auxilio o ayuda extraordinaria por peligro."
+  },
+  {
+    "id": 122,
+    "q": "El 'deber de diligencia y colaboración' del trabajador implica que debe:",
+    "options": [
+      "Realizar tareas que no corresponden a su categoría si el empleador lo pide.",
+      "Prestar el servicio con puntualidad, asistencia regular y dedicación adecuada.",
+      "Informar al empleador sobre las actividades privadas de sus compañeros."
+    ],
+    "answer": 1,
+    "explanation": "El art. 84 de la LCT establece que el trabajador debe prestar su servicio con la debida diligencia, lo que incluye puntualidad, asistencia y una dedicación apropiada a las características de su empleo."
+  },
+  {
+    "id": 123,
+    "q": "¿Qué es una 'sociedad de gestión colectiva' en el ámbito del derecho de autor?",
+    "options": [
+      "Una empresa que compra los derechos de autor de los artistas.",
+      "Una asociación que gestiona los derechos de autor de sus miembros, licenciando sus obras y recaudando regalías.",
+      "Un organismo estatal que registra las obras."
+    ],
+    "answer": 1,
+    "explanation": "Las sociedades de gestión colectiva (como SADAIC en música) son organizaciones de autores y titulares de derechos que administran de forma colectiva el cobro de regalías por el uso de sus obras, ya que sería imposible para cada autor hacerlo individualmente."
+  },
+  {
+    "id": 124,
+    "q": "La Ley 25.326 en Argentina regula:",
+    "options": [
+      "La firma digital.",
+      "El comercio electrónico.",
+      "La protección de los datos personales (Habeas Data)."
+    ],
+    "answer": 2,
+    "explanation": "La Ley 25.326 de Protección de Datos Personales tiene por objeto la protección integral de los datos personales asentados en archivos, registros, bancos de datos, u otros medios técnicos de tratamiento de datos, para garantizar el derecho al honor y a la intimidad de las personas."
+  },
+  {
+    "id": 125,
+    "q": "En la investigación de un delito, el 'Cuerpo de Investigadores Judiciales' depende de:",
+    "options": [
+      "El Poder Ejecutivo (Ministerio de Seguridad).",
+      "El Ministerio Público Fiscal.",
+      "La Corte Suprema de Justicia."
+    ],
+    "answer": 1,
+    "explanation": "A diferencia de la Policía Científica que puede depender del Poder Ejecutivo, el Cuerpo de Investigadores Judiciales es un órgano auxiliar del Ministerio Público Fiscal, que actúa bajo la dirección de los fiscales en la investigación de delitos."
+  },
+  {
+    "id": 126,
+    "q": "En el fuero penal, la acción es llevada adelante por el Fiscal, que se origina a partir de una:",
+    "options": [
+      "Demanda",
+      "Querella",
+      "Denuncia"
+    ],
+    "answer": 2,
+    "explanation": "La denuncia es la noticia de un presunto delito que cualquier persona puede poner en conocimiento de la autoridad (policía o fiscalía), dando inicio a la investigación penal."
+  },
+  {
+    "id": 127,
+    "q": "¿Qué es la fuerza probatoria de un dictamen pericial?",
+    "options": [
+      "Es un valor fijo que la ley asigna a cada tipo de pericia.",
+      "Es la capacidad de convicción del dictamen, que será estimada por el Juez.",
+      "Es vinculante para el Juez, quien no puede apartarse de sus conclusiones."
+    ],
+    "answer": 1,
+    "explanation": "El dictamen pericial no es obligatorio para el juez. Su fuerza probatoria es la persuasión que genera en el magistrado, quien debe valorarlo de acuerdo a la sana crítica, considerando la competencia del perito, los fundamentos dados y otros elementos de la causa."
+  },
+  {
+    "id": 128,
+    "q": "El análisis de memoria puede permitir la detección de malware que busca ocultarse. Esto es importante porque:",
+    "options": [
+      "Podría demostrar que el equipo fue controlado por un tercero, exculpando al usuario investigado.",
+      "Permite formatear el disco duro de forma segura.",
+      "Aumenta la velocidad de procesamiento del equipo."
+    ],
+    "answer": 0,
+    "explanation": "La detección de malware (como un troyano de acceso remoto) puede ser vital para la defensa, ya que puede demostrar que las actividades ilícitas investigadas no fueron realizadas por el usuario del equipo, sino por un atacante que lo controlaba remotamente."
+  },
+  {
+    "id": 129,
+    "q": "En el antiguo derecho romano, la obligación era considerada un vínculo que permitía al acreedor ejercer poderes sobre:",
+    "options": [
+      "El patrimonio del deudor.",
+      "La persona del deudor.",
+      "Los bienes futuros del deudor."
+    ],
+    "answer": 1,
+    "explanation": "Inicialmente, en el derecho romano, la obligación era un vínculo estrictamente personal que incluso permitía la esclavitud del deudor por deudas. Con el tiempo, evolucionó hacia una responsabilidad puramente patrimonial."
+  },
+  {
+    "id": 130,
+    "q": "Un contrato de 'Fianza' es aquel en que una persona (fiador):",
+    "options": [
+      "Presta dinero a otra (afianzado).",
+      "Se obliga accesoriamente por otra a satisfacer una prestación en caso de incumplimiento.",
+      "Garantiza una obligación con un bien inmueble de su propiedad."
+    ],
+    "answer": 1,
+    "explanation": "La fianza es un contrato de garantía personal. El fiador garantiza el cumplimiento de la obligación de un deudor principal, obligándose a pagar si este no lo hace."
+  },
+  {
+    "id": 131,
+    "q": "En el contrato de 'Obras y Servicios', ¿cuál es la diferencia principal entre una obligación de medios y una de resultado?",
+    "options": [
+      "La de medios se paga por hora y la de resultado por un monto fijo.",
+      "En la de medios se promete diligencia sin asegurar el resultado; en la de resultado se promete un resultado concreto.",
+      "La de medios la realiza un profesional y la de resultado un operario."
+    ],
+    "answer": 1,
+    "explanation": "En las obligaciones de medios (ej. un abogado), el deudor se compromete a actuar con la diligencia debida, pero no garantiza el éxito. En las de resultado (ej. construir una pared), el deudor se compromete a lograr un objetivo específico."
+  },
+  {
+    "id": 132,
+    "q": "Según el CCCN, los derechos reales sobre cosa ajena pueden ser de:",
+    "options": [
+      "Dominio y condominio.",
+      "Uso y goce, o de garantía.",
+      "Solo de garantía, como la hipoteca."
+    ],
+    "answer": 1,
+    "explanation": "Los derechos reales sobre cosa ajena se dividen en dos grandes grupos: los de uso y goce (usufructo, uso, habitación, servidumbre) y los de garantía (hipoteca, prenda, anticresis)."
+  },
+  {
+    "id": 133,
+    "q": "La Ley de Contrato de Trabajo establece que el pago de la remuneración en especie no puede superar el:",
+    "options": [
+      "10% del total de la remuneración.",
+      "20% del total de la remuneración.",
+      "50% del total de la remuneración."
+    ],
+    "answer": 1,
+    "explanation": "La LCT prioriza el pago en dinero, estableciendo un límite del 20% para los pagos en especie (vivienda, alimentos, etc.) que formen parte de la remuneración."
+  },
+  {
+    "id": 134,
+    "q": "El principio de 'continuidad de la relación laboral' favorece:",
+    "options": [
+      "Que el contrato de trabajo se extinga ante la menor duda.",
+      "Que, en caso de duda, se resuelva a favor de la validez y vigencia del contrato.",
+      "La contratación de personal por plazos fijos cortos."
+    ],
+    "answer": 1,
+    "explanation": "Este principio establece que el contrato de trabajo es de vocación permanente y que la ley busca su conservación. Por ello, en caso de duda, se debe optar por la interpretación que mantenga viva la relación laboral."
+  },
+  {
+    "id": 135,
+    "q": "Si un empleador despide a un trabajador y este se encuentra con licencia por enfermedad, el preaviso:",
+    "options": [
+      "Es válido y sus plazos corren normalmente.",
+      "No tiene efecto, salvo que se haya otorgado una vez que cese la suspensión.",
+      "Es válido, pero el empleador debe pagar doble indemnización."
+    ],
+    "answer": 1,
+    "explanation": "Si el contrato está suspendido con derecho a remuneración (como en una enfermedad inculpable), el preaviso notificado durante ese período no tiene efecto, para proteger al trabajador en su estado de vulnerabilidad."
+  },
+  {
+    "id": 136,
+    "q": "El derecho del trabajador a gozar de una licencia de dos horas diarias durante el plazo de preaviso tiene como finalidad:",
+    "options": [
+      "Permitirle buscar un nuevo empleo.",
+      "Reducir gradualmente su carga laboral.",
+      "Realizar trámites personales no urgentes."
+    ],
+    "answer": 0,
+    "explanation": "El art. 237 de la LCT otorga esta licencia paga para que el trabajador, cuyo contrato está por extinguirse, disponga de tiempo dentro de su jornada para buscar una nueva ocupación."
+  },
+  {
+    "id": 137,
+    "q": "¿Qué protege la Ley 24.766 de Confidencialidad?",
+    "options": [
+      "Los secretos de Estado.",
+      "La información de una base de datos personal.",
+      "La información no divulgada y los datos de prueba con valor comercial."
+    ],
+    "answer": 2,
+    "explanation": "Esta ley protege la información que se mantiene en secreto por una empresa y que le da una ventaja competitiva (secretos comerciales o 'know-how'), sancionando su divulgación no autorizada."
+  },
+  {
+    "id": 138,
+    "q": "Una de las características de la Criminalística es que es una ciencia 'fáctica'. Esto significa que:",
+    "options": [
+      "Se basa en normas y leyes preestablecidas.",
+      "Se basa en el estudio objetivo de los hechos a través de la observación y la experimentación.",
+      "Sus conclusiones son siempre teóricas y no pueden ser verificadas."
+    ],
+    "answer": 1,
+    "explanation": "Que sea una ciencia fáctica significa que se ocupa de hechos concretos y verificables del mundo real, utilizando métodos empíricos como la observación y la experimentación."
+  },
+  {
+    "id": 139,
+    "q": "Si un perito de parte y un perito de oficio discrepan en sus informes en un caso penal, el fiscal o juez puede:",
+    "options": [
+      "Anular ambas pericias y resolver sin ellas.",
+      "Nombrar otros peritos para obtener más opiniones o realizar una nueva pericia.",
+      "Darle siempre la razón al perito de oficio."
+    ],
+    "answer": 1,
+    "explanation": "Ante la discrepancia de los informes periciales, la autoridad judicial tiene la facultad de ordenar una nueva pericia o designar a otros expertos para que emitan una opinión que ayude a dilucidar la cuestión técnica."
+  },
+  {
+    "id": 140,
+    "q": "En el proceso penal de la provincia de Buenos Aires, ¿quién designa al perito de oficio?",
+    "options": [
+      "El Juez de Garantías a pedido de la defensa.",
+      "El imputado, de una lista provista por el tribunal.",
+      "El Fiscal, generalmente entre los peritos oficiales."
+    ],
+    "answer": 2,
+    "explanation": "En el sistema acusatorio, dado que el Fiscal dirige la investigación, es él quien designa a los peritos de oficio necesarios para la causa, notificando a las partes para que puedan proponer sus peritos de parte."
+  },
+  {
+    "id": 141,
+    "q": "El análisis forense de memoria se realiza sobre un 'volcado' para:",
+    "options": [
+      "Hacer una intrusión mínima en el sistema y asegurar la reproducibilidad del análisis.",
+      "Borrar la información del sistema original de forma segura.",
+      "Acelerar el proceso de análisis, ya que es más rápido que analizar el disco."
+    ],
+    "answer": 0,
+    "explanation": "Trabajar sobre una copia (el volcado) en lugar del sistema en vivo es un principio forense fundamental. Permite preservar la evidencia original intacta y garantiza que el análisis pueda ser repetido por otro perito obteniendo los mismos resultados."
+  },
+  {
+    "id": 142,
+    "q": "En las obligaciones de hacer, si el deudor no cumple, el acreedor puede:",
+    "options": [
+      "Obligarlo a cumplir por la fuerza física.",
+      "Hacerlo cumplir por otro a costa del deudor.",
+      "Resolver el contrato perdiendo lo pagado."
+    ],
+    "answer": 1,
+    "explanation": "Ante el incumplimiento de una obligación de hacer, el acreedor tiene la opción, entre otras, de procurar la ejecución por un tercero a costa del deudor, siempre que la prestación no sea 'intuitu personae' (que solo pueda ser cumplida por el deudor original)."
+  },
+  {
+    "id": 143,
+    "q": "Un 'Contrato de Consignación' es aquel donde una parte (consignante) encomienda a otra (consignatario):",
+    "options": [
+      "La custodia de cosas muebles.",
+      "La venta de cosas muebles a nombre del consignatario pero por cuenta del consignante.",
+      "La compra de cosas muebles por cuenta y orden del consignante."
+    ],
+    "answer": 1,
+    "explanation": "En la consignación, el consignatario actúa en nombre propio frente a terceros para vender la mercadería del consignante, y luego debe rendirle cuentas de la venta."
+  },
+  {
+    "id": 144,
+    "q": "El derecho real de 'Servidumbre' es:",
+    "options": [
+      "Un derecho sobre la totalidad de una cosa ajena para usarla y gozarla.",
+      "Una restricción al dominio en interés público.",
+      "Un derecho real sobre un inmueble ajeno, en virtud del cual se puede ejercer sobre él ciertos actos de disposición o servirse de él."
+    ],
+    "answer": 2,
+    "explanation": "La servidumbre es un gravamen impuesto sobre un inmueble (fundo sirviente) en beneficio de otro (fundo dominante). Un ejemplo clásico es la servidumbre de paso."
+  },
+  {
+    "id": 145,
+    "q": "Las 'asignaciones familiares' que paga el Estado (ej. por hijo) son consideradas:",
+    "options": [
+      "Parte del salario del trabajador.",
+      "Prestaciones no remunerativas de la seguridad social.",
+      "Un préstamo que el trabajador debe devolver."
+    ],
+    "answer": 1,
+    "explanation": "Las asignaciones familiares son prestaciones de la seguridad social, no tienen carácter remunerativo y su objetivo es compensar las cargas de familia del trabajador. No son una contraprestación por el trabajo realizado."
+  },
+  {
+    "id": 146,
+    "q": "Durante el 'período de prueba', ¿el empleador debe registrar al trabajador?",
+    "options": [
+      "No, el registro es obligatorio solo después de los 3 meses.",
+      "Sí, el empleador debe registrar al trabajador desde el inicio de la relación laboral.",
+      "Solo si el trabajador lo solicita expresamente."
+    ],
+    "answer": 1,
+    "explanation": "La LCT establece que el empleador deberá registrar al trabajador que comienza su relación laboral por el período de prueba. La falta de registro implica que el contrato es por tiempo indeterminado sin período de prueba."
+  },
+  {
+    "id": 147,
+    "q": "Un 'Contrato de Fideicomiso Informático' tiene como objeto principal:",
+    "options": [
+      "La venta de equipos de computación.",
+      "La administración de activos digitales o tecnológicos.",
+      "La prestación de servicios de soporte técnico."
+    ],
+    "answer": 1,
+    "explanation": "Es una aplicación del contrato de fideicomiso donde los bienes fideicomitidos son activos informáticos, como software, bases de datos, dominios de internet o criptoactivos, que se entregan a un fiduciario para que los administre."
+  },
+  {
+    "id": 148,
+    "q": "La OMPI (WIPO en inglés) es la:",
+    "options": [
+      "Organización Mundial de Investigaciones Penales.",
+      "Organización Mundial del Comercio.",
+      "Organización Mundial de la Propiedad Intelectual."
+    ],
+    "answer": 2,
+    "explanation": "La OMPI es el organismo de las Naciones Unidas dedicado a fomentar el uso y la protección de las obras del intelecto humano, administrando tratados internacionales sobre propiedad intelectual."
+  },
+  {
+    "id": 149,
+    "q": "La prueba pericial, para ser considerada en un juicio, debe ser producida con control de:",
+    "options": [
+      "Los medios de comunicación.",
+      "Las partes del proceso.",
+      "El público en general."
+    ],
+    "answer": 1,
+    "explanation": "El principio de contradicción, esencial en el debido proceso, exige que las partes (acusación y defensa; actor y demandado) tengan la oportunidad de controlar la producción de la prueba pericial, proponer sus propios peritos y cuestionar el dictamen."
+  },
+  {
+    "id": 150,
+    "q": "¿Cuál es la principal diferencia entre la 'Policía Científica' y la 'Policía Judicial' según los textos?",
+    "options": [
+      "La Policía Científica investiga delitos federales y la Judicial delitos provinciales.",
+      "La Policía Científica depende del Poder Ejecutivo, mientras que la Policía Judicial es un órgano auxiliar del Ministerio Público Fiscal.",
+      "No hay diferencia, son dos nombres para la misma institución."
+    ],
+    "answer": 1,
+    "explanation": "El texto distingue que la Policía Científica de Buenos Aires depende del Ministerio de Seguridad (Poder Ejecutivo), mientras que la Policía Judicial (o Cuerpo de Investigadores) es un órgano técnico-científico que colabora directamente con los fiscales."
+  },
+  {
+    "id": 151,
+    "q": "Según las Institutas de Justiniano, ¿cómo se definía la obligación en el antiguo derecho romano?",
+    "options": [
+      "Como una relación jurídica para satisfacer un interés patrimonial.",
+      "Como un vínculo que nos constriñe a pagar algo a otro, según el derecho civil.",
+      "Como un poder del acreedor ejercido sobre un hecho del deudor."
+    ],
+    "answer": 1,
+    "explanation": "La definición de las Institutas de Justiniano es citada textualmente: 'La obligación es un vínculo que nos constriñe a pagar algo a otro, según el derecho civil'."
+  },
+  {
+    "id": 152,
+    "q": "En las obligaciones de dar una cosa, ¿qué se entiende por 'entregarla con todos sus accesorios' (art. 746)?",
+    "options": [
+      "Incluir todos los bienes muebles que se encuentren dentro del inmueble.",
+      "Entregar las partes que, aunque separadas momentáneamente, son esenciales para el uso de la cosa (ej. puertas, ventanas).",
+      "Proveer un manual de instrucciones y garantía extendida."
+    ],
+    "answer": 1,
+    "explanation": "El art. 746 establece el deber de entregar la cosa con todos sus accesorios, 'aunque hayan sido momentáneamente separados de ella'. El ejemplo dado es una casa con sus puertas, ventanas y sanitarios."
+  },
+  {
+    "id": 153,
+    "q": "Si la imposibilidad definitiva de cumplir una obligación se produce por caso fortuito o fuerza mayor, ¿cuál es la consecuencia?",
+    "options": [
+      "La obligación se convierte en pagar una indemnización por daños.",
+      "La obligación se extingue sin responsabilidad para el deudor.",
+      "El deudor debe cumplir la obligación tan pronto como el impedimento cese."
+    ],
+    "answer": 1,
+    "explanation": "Según el texto, 'Si la imposibilidad definitiva de cumplir las prestaciones es producto de caso fortuito o fuerza mayor, se extingue la obligación sin responsabilidad'."
+  },
+  {
+    "id": 154,
+    "q": "¿Qué tipo de contrato es aquel en el que las partes se obligan a transferirse el dominio de cosas que NO son dinero?",
+    "options": [
+      "Compraventa",
+      "Mutuo",
+      "Permuta"
+    ],
+    "answer": 2,
+    "explanation": "El contrato de Permuta se define como aquel en el que 'Las partes se obligan recíprocamente a transferirse el dominio de cosas que no son dinero'."
+  },
+  {
+    "id": 155,
+    "q": "En el contrato de 'Obras y Servicios', ¿qué implica la cláusula 'llave en mano'?",
+    "options": [
+      "Realizar una actividad con diligencia, independientemente de su éxito.",
+      "Procurar al acreedor un resultado cierto, con independencia de su eficacia.",
+      "Procurar al acreedor el resultado eficaz prometido."
+    ],
+    "answer": 2,
+    "explanation": "El texto especifica que la modalidad de 'procurar al acreedor el resultado eficaz prometido' comprende la cláusula 'llave en mano' o 'producto en mano'."
+  },
+  {
+    "id": 156,
+    "q": "Los derechos reales de garantía, como la hipoteca, se clasifican como:",
+    "options": [
+      "Principales y sobre cosa propia.",
+      "Accesorios y sobre cosa ajena.",
+      "No registrables y ejercidos por la posesión."
+    ],
+    "answer": 1,
+    "explanation": "El CCCN (art. 1889) clasifica los derechos reales de garantía (hipoteca, prenda, anticresis) como 'accesorios', ya que existen para asegurar el cumplimiento de una obligación principal. También son sobre cosa ajena."
+  },
+  {
+    "id": 157,
+    "q": "¿Qué derechos reales se ejercen SIN la posesión de la cosa?",
+    "options": [
+      "El dominio y el condominio.",
+      "El usufructo y el uso.",
+      "La servidumbre y la hipoteca."
+    ],
+    "answer": 2,
+    "explanation": "El art. 1891 establece que todos los derechos reales se ejercen por la posesión, con la excepción de la servidumbre y la hipoteca."
+  },
+  {
+    "id": 158,
+    "q": "Según el Artículo 1º de la LCT, ¿cuáles son las fuentes de regulación del contrato de trabajo?",
+    "options": [
+      "Únicamente la LCT y la voluntad de las partes.",
+      "La LCT, leyes y estatutos, convenios colectivos, la voluntad de las partes, y los usos y costumbres.",
+      "Solo los convenios colectivos de trabajo y los laudos arbitrales."
+    ],
+    "answer": 1,
+    "explanation": "El art. 1 de la LCT enumera cinco fuentes de regulación: a) Esta ley, b) Leyes y estatutos profesionales, c) Convenciones colectivas, d) Voluntad de las partes, e) Usos y costumbres."
+  },
+  {
+    "id": 159,
+    "q": "El 'principio de progresividad' en el derecho laboral se refiere a:",
+    "options": [
+      "Que el trabajador debe progresar en su carrera dentro de la empresa.",
+      "Que las condiciones de trabajo deben mejorar gradualmente y no retroceder.",
+      "Que el salario debe aumentar de acuerdo a la inflación."
+    ],
+    "answer": 1,
+    "explanation": "El principio de progresividad implica que las garantías y derechos de los trabajadores deben ir mejorando con el tiempo, prohibiendo el retroceso a condiciones menos favorables."
+  },
+  {
+    "id": 160,
+    "q": "En un 'Contrato de Equipo', ¿con quién tiene relación de dependencia cada trabajador del equipo?",
+    "options": [
+      "Con el coordinador o capataz del equipo.",
+      "Con el empleador que contrata al equipo.",
+      "No existe relación de dependencia, es un trabajo autónomo."
+    ],
+    "answer": 1,
+    "explanation": "El art. 101 de la LCT establece que, aunque el contrato se celebre con un coordinador, 'cada uno de los trabajadores está en relación de dependencia con el empleador'."
+  },
+  {
+    "id": 161,
+    "q": "Un 'Contrato de Aprendizaje' se celebra por escrito entre un empleador y un joven sin empleo de entre:",
+    "options": [
+      "14 y 18 años.",
+      "16 y 28 años.",
+      "18 y 35 años."
+    ],
+    "answer": 1,
+    "explanation": "El texto define el contrato de aprendizaje como aquel celebrado 'entre un empleador y un joven sin empleo de entre 16 y 28 años'."
+  },
+  {
+    "id": 162,
+    "q": "¿Cuál es la remuneración que recibe un pasante bajo la Ley 26.427 de Pasantías Educativas?",
+    "options": [
+      "Un salario mínimo vital y móvil.",
+      "Una 'asignación estímulo', calculada sobre el salario básico del convenio aplicable.",
+      "No reciben remuneración, solo beneficios como transporte y comida."
+    ],
+    "answer": 1,
+    "explanation": "La ley establece que los pasantes reciben una 'asignación estímulo' cuyo monto se calcula sobre el salario básico del convenio colectivo de la actividad, siendo proporcional a la carga horaria."
+  },
+  {
+    "id": 163,
+    "q": "El 'poder disciplinario' del empleador debe ser ejercido de forma:",
+    "options": [
+      "Discrecional, sin necesidad de justificación.",
+      "Proporcional a las faltas o incumplimientos demostrados por el trabajador.",
+      "Únicamente con sanciones económicas (multas)."
+    ],
+    "answer": 1,
+    "explanation": "El art. 67 de la LCT establece que 'el empleador podrá aplicar medidas disciplinarias proporcionadas a las faltas o incumplimientos demostrados por el trabajador'. La proporcionalidad es un requisito clave."
+  },
+  {
+    "id": 164,
+    "q": "¿Qué establece el art. 82 de la LCT sobre las invenciones o descubrimientos del trabajador?",
+    "options": [
+      "Son siempre propiedad del empleador.",
+      "Son propiedad del trabajador, aun cuando use instrumentos de la empresa, salvo que haya sido contratado para ello.",
+      "La propiedad es compartida en partes iguales entre el trabajador y el empleador."
+    ],
+    "answer": 1,
+    "explanation": "El art. 82 LCT protege la creatividad del trabajador, estableciendo que 'las invenciones o descubrimientos personales del trabajador son propiedad de éste', con la excepción de que su contratación haya tenido ese objeto específico."
+  },
+  {
+    "id": 165,
+    "q": "La LCT limita los adelantos de remuneración que puede otorgar el empleador hasta un:",
+    "options": [
+      "25% de la remuneración.",
+      "50% de la remuneración.",
+      "75% de la remuneración."
+    ],
+    "answer": 1,
+    "explanation": "El art. 130 de la LCT, para proteger la integridad del salario, limita los adelantos a un máximo del 50% de las remuneraciones correspondientes a un período de pago."
+  },
+  {
+    "id": 166,
+    "q": "En una jornada mixta (parte diurna, parte nocturna), ¿cómo se computa cada hora trabajada en el período nocturno?",
+    "options": [
+      "Se computa como una hora normal.",
+      "Se computa como una hora y ocho minutos.",
+      "Se computa como una hora y media."
+    ],
+    "answer": 1,
+    "explanation": "La ley de jornada de trabajo (11.544) establece que por cada hora trabajada en horario nocturno (de 21 a 6 hs) se deben computar 8 minutos adicionales a efectos de la duración de la jornada, o pagarse el excedente como hora extra."
+  },
+  {
+    "id": 167,
+    "q": "El preaviso que debe otorgar el empleador cuando el trabajador tiene una antigüedad mayor a cinco años es de:",
+    "options": [
+      "15 días.",
+      "Un mes.",
+      "Dos meses."
+    ],
+    "answer": 2,
+    "explanation": "El art. 231 de la LCT establece un preaviso de 2 meses por parte del empleador cuando la antigüedad del trabajador en el empleo fuese superior a 5 años."
+  },
+  {
+    "id": 168,
+    "q": "La pornografía infantil por internet es un delito tipificado en la Ley 26.388, que modifica el:",
+    "options": [
+      "Código Civil y Comercial.",
+      "Código Penal.",
+      "Ley de Propiedad Intelectual."
+    ],
+    "answer": 1,
+    "explanation": "La Ley 26.388 de delitos informáticos incorporó y modificó diversas figuras delictivas dentro del Código Penal, incluyendo la producción y tenencia de pornografía infantil a través de medios electrónicos (art. 128 CP)."
+  },
+  {
+    "id": 169,
+    "q": "La ley argentina que regula las Marcas y Designaciones es la:",
+    "options": [
+      "Ley 11.723",
+      "Ley 22.362",
+      "Ley 24.481"
+    ],
+    "answer": 1,
+    "explanation": "El texto de la Unidad 5 indica que la Ley 22.362 es la que regula las marcas en Argentina."
+  },
+  {
+    "id": 170,
+    "q": "¿Qué es la 'competencia desleal' según el Convenio de París?",
+    "options": [
+      "Vender productos a un precio menor que la competencia.",
+      "Cualquier acto capaz de crear confusión o desacreditar a un competidor.",
+      "Contratar empleados de una empresa competidora."
+    ],
+    "answer": 1,
+    "explanation": "El art. 10 bis del Convenio de París considera desleal cualquier acto de competencia contrario a los usos honestos en materia industrial o comercial, como los que crean confusión, realizan aseveraciones falsas para desacreditar o inducen al público a error."
+  },
+  {
+    "id": 171,
+    "q": "Para que una empresa acceda a los beneficios de la Ley de Economía del Conocimiento, debe acreditar al menos dos de tres requisitos. ¿Cuáles son?",
+    "options": [
+      "Antigüedad, número de empleados y facturación.",
+      "Calidad, inversiones en I+D o capacitación, y exportaciones.",
+      "Ser una pyme, tener sede en Argentina y no tener deudas fiscales."
+    ],
+    "answer": 1,
+    "explanation": "El texto resume los requisitos indicando que la empresa debe 'Acreditar al menos dos de tres requisitos: calidad, inversiones en I+D o capacitación, exportaciones'."
+  },
+  {
+    "id": 172,
+    "q": "El principio de la criminalística de 'Correspondencia' se refiere a que:",
+    "options": [
+      "Toda la evidencia debe ser enviada por correo certificado al laboratorio.",
+      "En el cuerpo de la víctima pueden aparecer marcas o rastros que delatan el agente empleado.",
+      "La versión del testigo debe corresponder con la del imputado."
+    ],
+    "answer": 1,
+    "explanation": "El principio de correspondencia de características establece que al producirse un contacto entre dos cuerpos, pueden quedar impresas marcas o rastros en uno de ellos que identifican al otro (ej. la marca de una herramienta en una puerta forzada)."
+  },
+  {
+    "id": 173,
+    "q": "En un proceso penal, ¿quién asume la defensa del imputado si este no designa un abogado particular?",
+    "options": [
+      "El fiscal, que debe actuar objetivamente.",
+      "El juez de garantías.",
+      "La Defensa Oficial, provista por el Estado."
+    ],
+    "answer": 2,
+    "explanation": "El derecho a la defensa es una garantía constitucional. Si el imputado no puede o no quiere nombrar un abogado privado, el Estado le provee uno a través de la Defensoría Oficial."
+  },
+  {
+    "id": 174,
+    "q": "En un proceso civil, el perito debe aceptar el cargo ante el Secretario dentro de:",
+    "options": [
+      "24 horas.",
+      "El tercer día de la notificación.",
+      "Diez días hábiles."
+    ],
+    "answer": 1,
+    "explanation": "El texto sobre procesos civiles indica que la aceptación del cargo debe hacerse 'Ante el Secretario, dentro del tercer día de notificación, bajo juramento de promesa'."
+  },
+  {
+    "id": 175,
+    "q": "Si un dictamen pericial en un proceso civil es poco claro, ¿qué pueden solicitar las partes o el juez?",
+    "options": [
+      "La anulación inmediata del dictamen y la designación de un nuevo perito.",
+      "Un pedido de explicaciones, que puede ser por escrito o en una audiencia.",
+      "Una sanción económica directa para el perito."
+    ],
+    "answer": 1,
+    "explanation": "El Código Procesal prevé que, si el dictamen es oscuro, impreciso o no concluyente, se puede ordenar al perito que brinde explicaciones (aclaraciones o ampliaciones) para subsanar las deficiencias."
+  },
+  {
+    "id": 176,
+    "q": "¿Qué es un 'crash dump' en el contexto de un volcado de memoria?",
+    "options": [
+      "Un volcado de memoria completo, bit a bit.",
+      "Un volcado generado por el sistema operativo Windows cuando ocurre un error grave.",
+      "Un archivo que registra únicamente las conexiones de red."
+    ],
+    "answer": 1,
+    "explanation": "El texto lo define como un 'Volcado generado por Windows', que se produce automáticamente cuando el sistema sufre un error crítico (pantalla azul) para facilitar el diagnóstico del problema."
+  },
+  {
+    "id": 177,
+    "q": "La ley que reglamenta el ejercicio profesional del Informático en Tucumán, mencionada en el texto, es la:",
+    "options": [
+      "Ley 26.388",
+      "Ley 7490",
+      "Ley 11.723"
+    ],
+    "answer": 1,
+    "explanation": "El texto de la Unidad 6, parte 3, indica que 'El Colegio de Graduados en Ciencia y Tecnología Informática de Tucumán (C.G.C.T.I.T) reglamenta el ejercicio profesional del Informático a través de la Ley 7490'."
+  },
+  {
+    "id": 178,
+    "q": "La 'Teoría del vínculo jurídico-complejo' sobre la obligación distingue una etapa de 'deuda' y otra de:",
+    "options": [
+      "Crédito",
+      "Responsabilidad",
+      "Pago"
+    ],
+    "answer": 1,
+    "explanation": "Esta teoría distingue dos momentos: la 'deuda' (el deber de cumplir del deudor) y la 'responsabilidad' (la sujeción del patrimonio del deudor a los poderes del acreedor ante el incumplimiento). El texto la menciona como la adoptada por la doctrina moderna."
+  },
+  {
+    "id": 179,
+    "q": "El contrato de 'Corretaje' se da cuando una de las partes (corredor) se obliga ante otra (comitente) a:",
+    "options": [
+      "Realizar actos jurídicos en interés del comitente.",
+      "Vender cosas muebles del comitente.",
+      "Mediar en la negociación y conclusión de uno o varios negocios."
+    ],
+    "answer": 2,
+    "explanation": "El corredor es un intermediario imparcial que acerca a las partes para que celebren un negocio. Su función es mediar, no representar ni vender por cuenta de otro."
+  },
+  {
+    "id": 180,
+    "q": "Los 'Contratos en Bolsas o Mercados de Comercio' suelen ser, en su naturaleza jurídica, un:",
+    "options": [
+      "Mandato del inversor al agente.",
+      "Depósito de valores.",
+      "Contrato de compraventa directa."
+    ],
+    "answer": 0,
+    "explanation": "El texto indica que estos contratos 'Suelen ser un mandato del inversor al agente', donde el inversor le da la orden al agente de bolsa para que compre o venda valores en su nombre e interés."
+  },
+  {
+    "id": 181,
+    "q": "El 'Contrato de Factoraje' se caracteriza porque una parte (factor) se obliga a:",
+    "options": [
+      "Financiar la producción de la otra parte (factoreado).",
+      "Adquirir por un precio los créditos originados en el giro comercial de la otra (factoreado).",
+      "Proveer de materia prima a la otra parte (factoreado)."
+    ],
+    "answer": 1,
+    "explanation": "En el factoraje, el factor (generalmente una entidad financiera) compra las facturas o créditos que el factoreado tiene contra sus clientes, adelantándole el dinero y asumiendo el riesgo de cobro."
+  },
+  {
+    "id": 182,
+    "q": "Los 'contratos asociativos' (negocios en participación, uniones transitorias, etc.) se caracterizan por:",
+    "options": [
+      "Ser contratos de consumo entre una empresa y un cliente.",
+      "Tener una comunidad de fin, sin llegar a ser una sociedad.",
+      "Crear obligaciones solo para una de las partes."
+    ],
+    "answer": 1,
+    "explanation": "Los contratos asociativos son formas de colaboración empresaria donde las partes se unen para un fin común, pero sin crear una nueva persona jurídica (sociedad). Se los describe como 'contratos de colaboración, organización o participativos'."
+  },
+  {
+    "id": 183,
+    "q": "El derecho real de 'Propiedad Horizontal' se ejerce sobre:",
+    "options": [
+      "Un terreno rural para su explotación agrícola.",
+      "Un inmueble propio edificado, que otorga a su titular facultades de uso y goce sobre partes privativas y comunes.",
+      "Una cosa mueble registrable, como un automotor."
+    ],
+    "answer": 1,
+    "explanation": "La propiedad horizontal es el derecho real que se ejerce sobre un inmueble propio que otorga a su titular el dominio exclusivo sobre su unidad funcional (departamento, local) y un condominio forzoso sobre las partes comunes del edificio (pasillos, ascensores)."
+  },
+  {
+    "id": 184,
+    "q": "El 'deber de no concurrencia' del trabajador (art. 88 LCT) le prohíbe:",
+    "options": [
+      "Tener otro empleo de cualquier tipo.",
+      "Ejecutar negociaciones por cuenta propia o ajena que puedan afectar los intereses del empleador.",
+      "Asistir a eventos sociales de la competencia."
+    ],
+    "answer": 1,
+    "explanation": "Este deber, también llamado 'competencia desleal', impide que el trabajador realice, sin autorización, negocios que compitan o perjudiquen al empleador. Es una manifestación del deber de fidelidad."
+  },
+  {
+    "id": 185,
+    "q": "El empleador está obligado a entregar al trabajador un 'certificado de servicios y remuneraciones' al finalizar el contrato. ¿Qué debe contener?",
+    "options": [
+      "Solo el tiempo de prestación de servicios y la calificación profesional.",
+      "El tiempo de servicios, las remuneraciones percibidas y los aportes y contribuciones efectuados.",
+      "Una carta de recomendación para futuros empleos."
+    ],
+    "answer": 1,
+    "explanation": "El art. 80 de la LCT obliga al empleador a entregar este certificado que detalla la historia laboral del trabajador en la empresa, incluyendo los datos necesarios para que pueda tramitar prestaciones previsionales."
+  },
+  {
+    "id": 186,
+    "q": "¿Qué son los 'viáticos' en el contexto de la remuneración?",
+    "options": [
+      "Son siempre no remunerativos.",
+      "Son la parte del sueldo que se paga en especie.",
+      "Son sumas que se pagan para cubrir gastos de viaje y se consideran remuneración, salvo en la parte efectivamente gastada y acreditada con comprobantes."
+    ],
+    "answer": 2,
+    "explanation": "La LCT establece que los viáticos son considerados remuneración, excepto en la porción de los gastos que se acrediten con comprobantes. La jurisprudencia ha matizado esta regla, pero esa es la base legal."
+  },
+  {
+    "id": 187,
+    "q": "Para que la renuncia del trabajador sea válida, ¿qué requisito de forma exige la LCT?",
+    "options": [
+      "Debe ser comunicada verbalmente frente a dos testigos.",
+      "Debe formalizarse mediante telegrama colacionado, personalmente ante la autoridad administrativa o judicial.",
+      "Basta con una nota simple firmada entregada al empleador."
+    ],
+    "answer": 1,
+    "explanation": "El art. 240 de la LCT establece formas específicas para la renuncia (despacho telegráfico, o personalmente ante la autoridad) para asegurar que sea un acto libre y voluntario del trabajador, evitando presiones."
+  },
+  {
+    "id": 188,
+    "q": "Si un empleador despide a una trabajadora por causa de maternidad, la indemnización que corresponde es:",
+    "options": [
+      "La indemnización normal por despido sin causa.",
+      "Una indemnización agravada especial, equivalente a un año de remuneraciones.",
+      "Nula, y la trabajadora debe ser reincorporada obligatoriamente."
+    ],
+    "answer": 1,
+    "explanation": "La LCT (art. 178) presume que el despido durante el período de protección por maternidad obedece a esa razón y establece una indemnización agravada especial (un año de sueldos) que se suma a la indemnización por antigüedad."
+  },
+  {
+    "id": 189,
+    "q": "En el 'Contrato de Seguro', la contraprestación que paga el asegurado se denomina:",
+    "options": [
+      "Prima",
+      "Indemnización",
+      "Canon"
+    ],
+    "answer": 0,
+    "explanation": "El asegurado se obliga a pagar una 'prima' o premio, y a cambio, el asegurador se obliga a resarcir un daño o cumplir la prestación convenida si ocurre el evento previsto (siniestro)."
+  },
+  {
+    "id": 190,
+    "q": "El contrato de 'Transacción' sirve para:",
+    "options": [
+      "Transferir derechos de una persona a otra.",
+      "Someter una controversia a la decisión de árbitros.",
+      "Evitar un litigio o ponerle fin, mediante concesiones recíprocas."
+    ],
+    "answer": 2,
+    "explanation": "La transacción es un contrato por el cual las partes, para evitar un juicio o terminar uno ya iniciado, se hacen concesiones mutuas y extinguen obligaciones dudosas o litigiosas."
+  },
+  {
+    "id": 191,
+    "q": "El 'Código de Ética' de una profesión informática tiene como objetivo:",
+    "options": [
+      "Establecer las tarifas de los servicios profesionales.",
+      "Regular las relaciones laborales de los informáticos.",
+      "Guiar la conducta y el juicio profesional, promoviendo un ejercicio responsable y honesto."
+    ],
+    "answer": 2,
+    "explanation": "Un código de ética establece los principios y valores que deben regir la práctica profesional, abordando cuestiones como la integridad, la competencia, la confidencialidad y la responsabilidad social."
+  },
+  {
+    "id": 192,
+    "q": "El Acuerdo 'ADPIC' o 'TRIPs' (en inglés) es un tratado internacional administrado por la OMC que se refiere a:",
+    "options": [
+      "El derecho del trabajo.",
+      "Los aspectos de los derechos de propiedad intelectual relacionados con el comercio.",
+      "La regulación de internet."
+    ],
+    "answer": 1,
+    "explanation": "El Acuerdo sobre los Aspectos de los Derechos de Propiedad Intelectual relacionados con el Comercio (ADPIC) establece estándares mínimos de protección que los países miembros de la OMC deben garantizar en sus legislaciones."
+  },
+  {
+    "id": 193,
+    "q": "El principio de 'certeza' en la criminalística establece que:",
+    "options": [
+      "El investigador debe estar seguro de la culpabilidad del sospechoso antes de buscar pruebas.",
+      "La investigación finaliza con la valoración de los indicios para determinar una certeza indiscutible sobre los hechos.",
+      "Las pruebas deben ser certificadas por un escribano público."
+    ],
+    "answer": 1,
+    "explanation": "Es el último principio, que se alcanza tras la valoración cualitativa y cuantitativa de los indicios, permitiendo establecer con un grado de certeza muy alto (o indiscutible) cómo ocurrieron los hechos y quién participó."
+  },
+  {
+    "id": 194,
+    "q": "En un juicio penal, si el perito no concurre a declarar o no presenta su informe en plazo, ¿qué consecuencia puede tener?",
+    "options": [
+      "El juicio se anula automáticamente.",
+      "Puede ser removido del cargo y perder el derecho a cobrar honorarios.",
+      "La parte que lo propuso es multada."
+    ],
+    "answer": 1,
+    "explanation": "El incumplimiento de sus deberes puede acarrear sanciones procesales para el perito, como su remoción y la pérdida total o parcial de sus honorarios, sin perjuicio de otras responsabilidades."
+  },
+  {
+    "id": 195,
+    "q": "En el proceso penal, las partes pueden objetar las preguntas que se le hacen a un testigo o perito si son:",
+    "options": [
+      "Difíciles o muy técnicas.",
+      "Capciosas, sugestivas o impertinentes.",
+      "Largas o compuestas."
+    ],
+    "answer": 1,
+    "explanation": "El interrogatorio está reglado para garantizar la obtención de información veraz y espontánea. Por ello, las partes pueden objetar preguntas que intenten engañar, dirigir la respuesta o sean irrelevantes para el caso (engañosas, sugestivas, etc.)."
+  },
+  {
+    "id": 196,
+    "q": "La principal diferencia entre el 'software de programación' y el 'software de aplicación' es:",
+    "options": [
+      "El de programación es gratuito y el de aplicación es de pago.",
+      "El de programación sirve para crear otros programas, y el de aplicación sirve para realizar tareas del usuario final.",
+      "El de programación se ejecuta en servidores y el de aplicación en computadoras personales."
+    ],
+    "answer": 1,
+    "explanation": "El software de programación (compiladores, editores de código, depuradores) es una herramienta para desarrolladores. El software de aplicación (procesador de texto, navegador web, videojuego) está diseñado para que un usuario final realice una tarea específica."
+  },
+  {
+    "id": 197,
+    "q": "El derecho 'sui generis' de protección de bases de datos, existente en la Unión Europea, protege contra:",
+    "options": [
+      "La copia de la estructura original de la base de datos.",
+      "La extracción o reutilización no autorizada de una parte sustancial del contenido de la base de datos.",
+      "El uso de la base de datos para fines comerciales."
+    ],
+    "answer": 1,
+    "explanation": "Este derecho no protege la originalidad (ya cubierta por el derecho de autor), sino la inversión sustancial (financiera, humana, técnica) realizada por el fabricante de la base de datos, impidiendo que otros se apropien de su contenido."
+  },
+  {
+    "id": 198,
+    "q": "La etapa investigativa en un proceso penal, según los códigos procesales modernos, se denomina 'investigación preparatoria' para enfatizar que:",
+    "options": [
+      "Es una etapa secreta y escrita.",
+      "Es la preparación para el juicio oral y público.",
+      "Es una etapa opcional que puede omitirse."
+    ],
+    "answer": 1,
+    "explanation": "El término 'investigación preparatoria' se asocia a los sistemas acusatorios, donde esta etapa tiene como fin reunir la prueba para decidir si se va a juicio, siendo el juicio oral la etapa central donde se decide el caso."
+  },
+  {
+    "id": 199,
+    "q": "El análisis forense de memoria permite descubrir información de conexiones de red. ¿Por qué es útil vincularlas con los Process ID (PID)?",
+    "options": [
+      "Para saber la velocidad de la conexión.",
+      "Para identificar qué programa o proceso específico en el sistema estableció esa conexión.",
+      "Para determinar la ubicación geográfica del servidor remoto."
+    ],
+    "answer": 1,
+    "explanation": "Al relacionar una conexión de red (ej. a una IP maliciosa) con un PID, el analista puede identificar el archivo ejecutable responsable de esa comunicación, lo cual es fundamental para detectar malware o programas no autorizados."
+  },
+  {
+    "id": 200,
+    "q": "Un 'Contrato de Cesión de Derechos' es aquel en que una parte (cedente) transfiere a la otra (cesionario):",
+    "options": [
+      "La propiedad de una cosa.",
+      "Un derecho, como un crédito o un derecho de autor.",
+      "La tenencia de un bien para su uso."
+    ],
+    "answer": 1,
+    "explanation": "El objeto de este contrato no es una cosa material, sino un derecho. El cedente le transfiere al cesionario la titularidad de un derecho que tenía contra un tercero (el deudor cedido)."
+  },
+  {
+    "id": 201,
+    "q": "El derecho de 'preferencia' (ius preferendi) de los derechos reales significa que:",
+    "options": [
+      "El titular puede elegir a quién venderle la cosa.",
+      "El titular tiene prioridad para cobrar su crédito sobre otros acreedores, con la cosa como garantía.",
+      "El Estado tiene preferencia para comprar el bien si está en venta."
+    ],
+    "answer": 1,
+    "explanation": "El ius preferendi, típico de los derechos reales de garantía como la hipoteca, otorga al titular del derecho una prioridad para cobrar su crédito con el producido de la venta de la cosa, antes que otros acreedores comunes."
+  },
+  {
+    "id": 202,
+    "q": "La diferencia entre 'muerte' y 'muerte presunta' en derecho civil es que:",
+    "options": [
+      "La muerte es un hecho biológico y la muerte presunta es una declaración judicial ante la ausencia prolongada de una persona.",
+      "La muerte se inscribe en el Registro Civil y la muerte presunta no.",
+      "La muerte extingue la personalidad jurídica y la muerte presunta solo la suspende."
+    ],
+    "answer": 0,
+    "explanation": "La muerte es la constatación de un hecho biológico. La declaración de muerte presunta es una ficción legal que se dicta tras un proceso judicial cuando una persona ha desaparecido de su domicilio por un tiempo prolongado sin tener noticias de ella, para regular los efectos patrimoniales de su ausencia."
+  },
+  {
+    "id": 203,
+    "q": "En el 'Contrato de Trabajo de Temporada Atípico', la actividad de la empresa:",
+    "options": [
+      "Solo existe durante una época del año.",
+      "Se realiza durante todo el año, pero se incrementa en una época determinada.",
+      "Es de naturaleza esporádica e impredecible."
+    ],
+    "answer": 1,
+    "explanation": "A diferencia del típico (donde la actividad solo existe en temporada, ej. cosecha), en el atípico la empresa opera todo el año pero tiene picos estacionales (ej. heladería en verano) que requieren contratar más personal para cubrir ese aumento."
+  },
+  {
+    "id": 204,
+    "q": "El 'deber de obediencia' del trabajador tiene como límite:",
+    "options": [
+      "Las órdenes que no le agraden personalmente.",
+      "Las órdenes que excedan su capacidad técnica.",
+      "El ejercicio funcional y razonable del poder de dirección del empleador, no debiendo acatar órdenes ilícitas."
+    ],
+    "answer": 2,
+    "explanation": "El deber de obediencia no es absoluto. El trabajador debe acatar las órdenes relativas al trabajo, siempre que sean lícitas y no pongan en riesgo su salud o su dignidad. No está obligado a cumplir órdenes ilegales o abusivas."
+  },
+  {
+    "id": 205,
+    "q": "El 'Código Fuente' de un programa es protegido por la ley de derecho de autor porque se considera:",
+    "options": [
+      "Una idea abstracta de cómo resolver un problema.",
+      "La expresión escrita y detallada de un conjunto de ideas.",
+      "Un dispositivo físico que contiene el programa."
+    ],
+    "answer": 1,
+    "explanation": "La ley no protege la idea de 'hacer una planilla de cálculo', pero sí protege el código fuente específico que un programador escribe para implementar esa idea, ya que es una forma de expresión original."
+  },
+  {
+    "id": 206,
+    "q": "La 'invariabilidad de la causa' del despido (art. 243 LCT) es una protección para:",
+    "options": [
+      "El empleador, para que no pueda ser demandado por otras causas.",
+      "El trabajador, para que pueda defenderse de los hechos concretos que se le imputan.",
+      "Los testigos, para que solo declaren sobre la causa notificada."
+    ],
+    "answer": 1,
+    "explanation": "Este principio garantiza el derecho de defensa del trabajador, ya que impide que el empleador lo sorprenda en el juicio con acusaciones nuevas y distintas a las que motivaron la ruptura del contrato, sobre las cuales no pudo defenderse."
+  },
+  {
+    "id": 207,
+    "q": "En un proceso penal, ¿la pericia se realiza siempre antes del juicio oral?",
+    "options": [
+      "Sí, todas las pericias deben estar concluidas antes del juicio.",
+      "No necesariamente, las pericias se realizan en la etapa de investigación preparatoria, pero el perito debe declarar en el juicio oral para explicarla.",
+      "No, las pericias solo se realizan durante el juicio oral."
+    ],
+    "answer": 1,
+    "explanation": "El informe pericial se elabora durante la investigación. Sin embargo, no se incorpora por lectura. El perito debe comparecer al juicio oral como testigo-experto para ser interrogado por las partes sobre su dictamen. La prueba se produce en el juicio."
+  },
+  {
+    "id": 208,
+    "q": "La función orientadora de la evidencia en una investigación criminal consiste en:",
+    "options": [
+      "Ser utilizada como prueba irrefutable en un juicio.",
+      "Proporcionar una pista que permite avanzar en la investigación.",
+      "Demostrar la inocencia de un sospechoso."
+    ],
+    "answer": 1,
+    "explanation": "Una evidencia puede no ser suficiente para probar un hecho en juicio, pero sí puede ser muy útil para orientar la investigación, por ejemplo, llevando a los investigadores hacia un nuevo sospechoso o una nueva línea de pesquisa."
+  },
+  {
+    "id": 209,
+    "q": "El 'principio de probabilidad' en criminalística implica que:",
+    "options": [
+      "Es probable que toda investigación criminal llegue a una conclusión.",
+      "Tras la reconstrucción, se realiza un cálculo de probabilidad del resultado, que puede ser bajo, mediano o nulo.",
+      "Se debe descartar cualquier evidencia que no sea 100% segura."
+    ],
+    "answer": 1,
+    "explanation": "Este principio se refiere a la fase de inferencia, donde el criminalista, basándose en la calidad y cantidad de los indicios, establece un grado de probabilidad de que los hechos hayan ocurrido de una determinada manera."
+  },
+  {
+    "id": 210,
+    "q": "¿Qué significa que el 'consentimiento' en un contrato es un elemento esencial?",
+    "options": [
+      "Que es importante, pero puede ser suplido por el juez.",
+      "Que es uno de los elementos principales, pero no el único.",
+      "Que sin él, el contrato es nulo o inexistente."
+    ],
+    "answer": 2,
+    "explanation": "Los elementos esenciales son aquellos que no pueden faltar para que un contrato sea válido. El consentimiento, junto con el objeto y la causa, es un requisito indispensable para la existencia del contrato."
+  },
+  {
+    "id": 211,
+    "q": "El contrato de 'Donación' con cargo implica que:",
+    "options": [
+      "El donatario debe pagar un precio por la cosa donada.",
+      "El donante impone al donatario el cumplimiento de una obligación accesoria.",
+      "La donación solo se hace efectiva si ocurre un evento futuro."
+    ],
+    "answer": 1,
+    "explanation": "En una donación con cargo, la donación sigue siendo gratuita, pero el donatario debe cumplir una prestación adicional (el cargo), por ejemplo, donar un inmueble con el cargo de que se instale allí una biblioteca pública."
+  },
+  {
+    "id": 212,
+    "q": "En el derecho laboral, ¿qué es un 'estatuto profesional'?",
+    "options": [
+      "El reglamento interno de una empresa.",
+      "Una ley especial que regula una determinada actividad o profesión (ej. viajantes, periodistas).",
+      "El convenio colectivo de trabajo aplicable a la actividad."
+    ],
+    "answer": 1,
+    "explanation": "Los estatutos profesionales son leyes específicas que regulan las particularidades de ciertas profesiones, complementando o modificando el régimen general de la LCT."
+  },
+  {
+    "id": 213,
+    "q": "¿Qué es la 'responsabilidad por daños' del trabajador según el art. 87 de la LCT?",
+    "options": [
+      "El trabajador es responsable por cualquier daño que cause a los bienes del empleador, sin importar la causa.",
+      "El trabajador solo es responsable por los daños que cause con dolo o culpa grave.",
+      "El trabajador nunca es responsable por los daños, ya que es un riesgo que asume el empleador."
+    ],
+    "answer": 1,
+    "explanation": "La ley limita la responsabilidad del trabajador. No responde por el deterioro normal de las herramientas ni por daños causados por culpa leve. Solo es responsable si actúa con intención de dañar (dolo) o con una negligencia muy grave (culpa grave)."
+  },
+  {
+    "id": 214,
+    "q": "La protección contra la 'competencia desleal' en propiedad industrial busca principalmente:",
+    "options": [
+      "Fomentar la innovación tecnológica.",
+      "Impedir que otras empresas entren al mercado.",
+      "Proteger a los consumidores de prácticas que puedan inducir a error o confusión."
+    ],
+    "answer": 2,
+    "explanation": "Si bien protege a los competidores honestos, un objetivo central de la protección contra la competencia desleal es salvaguardar la confianza del público, evitando engaños sobre el origen, la calidad o las características de los productos y servicios."
+  },
+  {
+    "id": 215,
+    "q": "Si un perito de parte asiste a la diligencia pericial, ¿puede dar indicaciones al perito de oficio sobre cómo realizar su trabajo?",
+    "options": [
+      "Sí, puede dirigir la pericia si considera que el perito de oficio se está equivocando.",
+      "No, solo puede presenciar la operación y hacer observaciones, pero no dirigirla.",
+      "Solo puede intervenir si el juez lo autoriza previamente por escrito."
+    ],
+    "answer": 1,
+    "explanation": "El perito de parte actúa como un consultor técnico de la parte que lo propuso. Su función es controlar la pericia, hacer las observaciones que crea pertinentes, pero no tiene la facultad de dirigir o impartir órdenes al perito de oficio, que es el auxiliar del juez."
+  },
+  {
+    "id": 216,
+    "q": "El 'anticipo para gastos' que puede solicitar un perito de oficio en un proceso civil sirve para:",
+    "options": [
+      "Cubrir una parte de sus honorarios por adelantado.",
+      "Afrontar los costos necesarios para realizar la pericia (ej. traslados, compra de materiales).",
+      "Pagar las costas judiciales del proceso."
+    ],
+    "answer": 1,
+    "explanation": "El perito puede solicitar que la parte que pidió la pericia (o ambas) deposite una suma de dinero para cubrir los gastos que demandará la realización de su tarea, que no forman parte de sus honorarios profesionales."
+  },
+  {
+    "id": 217,
+    "q": "En el análisis forense, ¿qué es el 'triage'?",
+    "options": [
+      "La clonación completa de un disco duro.",
+      "Un proceso rápido de evaluación y recolección de la evidencia más volátil y relevante en la escena.",
+      "La redacción del informe pericial final."
+    ],
+    "answer": 1,
+    "explanation": "El triage forense es un método para evaluar rápidamente los dispositivos en una escena y priorizar la recolección de datos, centrándose en la información más perecedera (como la memoria RAM) o la más pertinente para el caso, optimizando el tiempo y los recursos."
+  },
+  {
+    "id": 218,
+    "q": "El 'contrato oneroso de renta vitalicia' es aleatorio porque:",
+    "options": [
+      "El monto de la renta puede variar según la inflación.",
+      "La duración de la obligación de pagar la renta depende de la vida de una persona, un hecho incierto.",
+      "El deudor puede elegir no pagar si sus finanzas empeoran."
+    ],
+    "answer": 1,
+    "explanation": "El factor de incertidumbre (alea) en este contrato es la duración de la vida de la persona designada. El deudor no sabe por cuánto tiempo tendrá que pagar la renta, y por lo tanto, no se conoce de antemano la ventaja o pérdida total para las partes."
+  },
+  {
+    "id": 219,
+    "q": "El derecho del trabajo se considera una rama del derecho que genera 'desigualdades' para:",
+    "options": [
+      "Favorecer a las empresas más grandes.",
+      "Compensar las diferencias naturales preexistentes entre trabajadores y empleadores.",
+      "Establecer jerarquías entre los propios trabajadores."
+    ],
+    "answer": 1,
+    "explanation": "El texto explica que el derecho laboral crea 'desigualdades' jurídicas a favor del trabajador (ej. principio protectorio) para nivelar la desigualdad económica y de poder que existe en la realidad entre ambas partes de la relación."
+  },
+  {
+    "id": 220,
+    "q": "La obligación de llevar un libro especial registrado (art. 52 LCT) recae sobre:",
+    "options": [
+      "Todos los empleadores, sin importar el número de empleados.",
+      "Solo los empleadores con más de 10 empleados.",
+      "Únicamente las grandes empresas y multinacionales."
+    ],
+    "answer": 0,
+    "explanation": "El art. 52 de la LCT establece la obligación para 'Todo empleador, cualquiera sea el número de empleados que ocupe', con la excepción de regímenes especiales como el de servicio doméstico."
+  },
+  {
+    "id": 221,
+    "q": "El principio 'non bis in idem' aplicado al poder disciplinario del empleador significa que:",
+    "options": [
+      "El empleador no puede sancionar a un trabajador sin pruebas.",
+      "No se puede sancionar dos veces al trabajador por la misma falta.",
+      "Las sanciones deben ser notificadas por duplicado."
+    ],
+    "answer": 1,
+    "explanation": "Este principio general del derecho, aplicable en el ámbito laboral, prohíbe una doble sanción por un mismo hecho. Una vez que el empleador aplicó una sanción por una falta, no puede luego aplicar otra más grave por ese mismo incumplimiento."
+  },
+  {
+    "id": 222,
+    "q": "La protección de una patente sobre una invención otorga al inventor:",
+    "options": [
+      "Un derecho exclusivo y excluyente para explotar comercialmente su invención.",
+      "Un premio en dinero otorgado por el Estado.",
+      "El derecho a que nadie más pueda investigar en el mismo campo tecnológico."
+    ],
+    "answer": 0,
+    "explanation": "La patente confiere un monopolio de explotación temporal. Su titular tiene el derecho exclusivo de fabricar, usar, vender o importar la invención, y puede impedir que terceros lo hagan sin su consentimiento."
+  },
+  {
+    "id": 223,
+    "q": "En un proceso penal, ¿qué es un 'elemento de prueba'?",
+    "options": [
+      "El testimonio de una persona.",
+      "El procedimiento para realizar una pericia.",
+      "Un dato objetivo que se incorpora legalmente al proceso, capaz de producir conocimiento."
+    ],
+    "answer": 2,
+    "explanation": "El texto lo define como 'Todo dato objetivo que se incorpora legamente al proceso, capaz de producir un conocimiento cierto o probable acerca de los extremos de la imputación delictiva'. El testigo o el perito son el 'órgano' que lo porta."
+  },
+  {
+    "id": 224,
+    "q": "¿Cuál es la misión principal de la Policía Judicial?",
+    "options": [
+      "Realizar patrullaje preventivo en las calles.",
+      "Reunir las evidencias y pruebas útiles para que los Fiscales puedan actuar ante los Jueces.",
+      "Custodiar los edificios de tribunales."
+    ],
+    "answer": 1,
+    "explanation": "El texto indica que la misión de la Policía Judicial es 'reunir las evidencias y pruebas útiles' para la investigación que dirige el Fiscal, enfocándose en el esclarecimiento de los hechos."
+  },
+  {
+    "id": 225,
+    "q": "Si un perito informático encuentra evidencia de otro delito distinto al que se está investigando, ¿qué debe hacer?",
+    "options": [
+      "Ignorarlo, ya que no forma parte de los puntos de pericia.",
+      "Informarlo inmediatamente a la autoridad judicial que ordenó la pericia.",
+      "Contactar directamente a la víctima del nuevo delito."
+    ],
+    "answer": 1,
+    "explanation": "El perito, como auxiliar de la justicia, tiene el deber de informar cualquier hallazgo relevante para la administración de justicia, aunque exceda los puntos de pericia originales. Este hallazgo podría dar lugar a una nueva investigación."
+  },
+  {
+    "id": 226,
+    "q": "El 'contrato de seguro' es un contrato aleatorio porque:",
+    "options": [
+      "La prima puede variar.",
+      "La obligación del asegurador de indemnizar depende de que ocurra un evento futuro e incierto (el siniestro).",
+      "El asegurado puede cancelar la póliza en cualquier momento."
+    ],
+    "answer": 1,
+    "explanation": "El 'alea' o riesgo es la esencia del contrato de seguro. Ni el asegurado ni el asegurador saben con certeza si el siniestro ocurrirá, y por lo tanto, si la obligación de indemnizar nacerá."
+  },
+  {
+    "id": 227,
+    "q": "La 'integración del mes de despido' NO procede cuando:",
+    "options": [
+      "El trabajador tiene menos de un año de antigüedad.",
+      "La extinción del contrato se produce durante el período de prueba.",
+      "El trabajador es despedido con justa causa."
+    ],
+    "answer": 1,
+    "explanation": "El último párrafo del art. 233 de la LCT prevé expresamente que la integración del mes de despido no procede cuando la extinción se produce durante el período de prueba."
+  },
+  {
+    "id": 228,
+    "q": "La diferencia entre un contrato 'conmutativo' y uno 'aleatorio' es que en el conmutativo:",
+    "options": [
+      "Las ventajas y pérdidas son desconocidas al momento de la celebración.",
+      "Las ventajas para todas las partes son ciertas y determinadas desde la celebración del contrato.",
+      "Solo una de las partes obtiene ventajas."
+    ],
+    "answer": 1,
+    "explanation": "En los contratos conmutativos (como la compraventa), las prestaciones de las partes son equivalentes y conocidas desde el principio. En los aleatorios, dependen de un acontecimiento incierto."
+  },
+  {
+    "id": 229,
+    "q": "El 'software' está protegido por la Ley 11.723 y sus modificatorias, y también se menciona en el:",
+    "options": [
+      "Código Civil y Comercial de la Nación.",
+      "Acuerdo ADPIC/TRIPs (ley 24.425).",
+      "Código de Comercio."
+    ],
+    "answer": 1,
+    "explanation": "El texto sobre protección legal del software enumera varias normativas, incluyendo el Acuerdo ADPIC/TRIPs, que establece estándares internacionales para la protección de la propiedad intelectual, incluyendo los programas de computación."
+  },
+  {
+    "id": 230,
+    "q": "En el sistema judicial penal, la 'acción penal' se origina a partir de una denuncia y es ejercida por:",
+    "options": [
+      "El Juez de Garantías.",
+      "El abogado defensor.",
+      "El Fiscal."
+    ],
+    "answer": 2,
+    "explanation": "El Fiscal es el titular de la acción penal pública. Es quien, en representación del Estado y la sociedad, lleva adelante la acusación contra el imputado."
+  }
+]
