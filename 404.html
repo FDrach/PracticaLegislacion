@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 2em;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 2em;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            text-align: left;
+        }
+        h1 {
+            color: #d9534f;
+            text-align: center;
+        }
+        p {
+            text-align: center;
+            font-size: 1.1em;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin: 0.5em 0;
+        }
+        a {
+            text-decoration: none;
+            color: #0275d8;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .directory {
+            font-weight: bold;
+            color: #555;
+            margin-top: 1em;
+        }
+        .nested-list {
+            padding-left: 2em;
+            border-left: 2px solid #eee;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Oops! Page Not Found (404)</h1>
+        <p>The page you are looking for doesn't exist. Maybe you were looking for one of these files?</p>
+        
+        <hr>
+
+        <ul>
+            <!-- Root Files -->
+            <li><a href="/index.html">index.html (Home)</a></li>
+            <li><a href="/questions.json">questions.json</a></li>
+            <li><a href="/README.md">README.md</a></li>
+            
+            <!-- Docs Directory -->
+            <li class="directory">docs/</li>
+            <li class="nested-list">
+                <ul>
+                    <li><a href="/docs/Programa.md">Programa.md</a></li>
+                    <li><a href="/docs/Unidad 3.md">Unidad 3.md</a></li>
+                    <li><a href="/docs/Unidad 4 p1.md">Unidad 4 p1.md</a></li>
+                    <li><a href="/docs/Unidad 4 p2.md">Unidad 4 p2.md</a></li>
+                    <li><a href="/docs/Unidad 4 p3.md">Unidad 4 p3.md</a></li>
+                    <li><a href="/docs/Unidad 5.md">Unidad 5.md</a></li>
+                    <li><a href="/docs/Unidad 6 p1.md">Unidad 6 p1.md</a></li>
+                    <li><a href="/docs/Unidad 6 p2.md">Unidad 6 p2.md</a></li>
+                    <li><a href="/docs/Unidad 6 p3.md">Unidad 6 p3.md</a></li>
+
+                    <!-- PDF Sub-directory -->
+                    <li class="directory">pdf/</li>
+                    <li class="nested-list">
+                         <ul>
+                            <li><a href="/docs/pdf/Programa_Analítico_de_Legislación_2°_año_Dra_Lonati,_Marcela_Paola.pdf">Programa Analítico....pdf</a></li>
+                            <li><a href="/docs/pdf/Unidad 3.pdf">Unidad 3.pdf</a></li>
+                            <li><a href="/docs/pdf/Unidad 4, parte 1.pdf">Unidad 4, parte 1.pdf</a></li>
+                            <li><a href="/docs/pdf/Unidad 4, parte 2.pdf">Unidad 4, parte 2.pdf</a></li>
+                            <li><a href="/docs/pdf/Unidad 4, parte 3.pdf">Unidad 4, parte 3.pdf</a></li>
+                            <li><a href="/docs/pdf/Unidad 5.pdf">Unidad 5.pdf</a></li>
+                            <li><a href="/docs/pdf/Unidad 6, parte 1.pdf">Unidad 6, parte 1.pdf</a></li>
+                            <li><a href="/docs/pdf/Unidad 6, parte 2.pdf">Unidad 6, parte 2.pdf</a></li>
+                            <li><a href="/docs/pdf/Unidad 6, parte 3.pdf">Unidad 6, parte 3.pdf</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
