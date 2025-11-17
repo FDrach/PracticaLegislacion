@@ -1,0 +1,96 @@
+# LEGISLACIÓN
+**Profesora:** Dra. Lonati, Marcela Paola
+
+| 2.025 | 2º Año | TUP - UTN |
+| :---: | :----: | :-------: |
+
+*(Logo: UTN * TUC)*
+
+*(Corner text: Perito Informático e Información de la Pericia en Sistemas)*
+
+---
+
+## Perito Informático
+
+Tanto el Código Procesal Civil y Comercial como el Procesal Penal reglamentan acerca de la idoneidad para ser Peritos en las causa judiciales. Ambos indican que de estar reglamentada la profesión los Peritos deberán tener título habilitante en la ciencia, arte, industria o actividad técnica especializada a la cual pertenezcan las cuestiones a expedirse; y sólo en el caso en que no lo estuviera o no hubiere Peritos diplomados o inscriptos deberá designarse a una persona de conocimiento o de práctica reconocidas.
+
+La gran mayoría de las provincias del país regulan el ejercicio profesional informático. Cada una poseen normativas específicas que legislan en todo el ámbito provincial.
+El Colegio de Graduados en Ciencia y Tecnología Informática de Tucumán (C.G.C.T.I.T) reglamenta el ejercicio profesional del Informático a través de la Ley 7490.
+
+Los colegios o consejos profesionales son asociaciones integradas por quienes ejercen una profesión liberal y que suelen estar amparados por el Estado. Sus miembros asociados son conocidos como **colegiados**. La finalidad de los colegios profesionales es la de velar por el cumplimiento de una buena labor profesional, donde la práctica ética del trabajo se constituye como uno de los principios comunes que ayudan a definir los estatutos de cada corporación.
+
+---
+
+## Pericia y Análisis Forense de Memoria
+
+El Análisis Forense de Memoria consiste en la adquisición de datos provenientes de la memoria principal de un sistema de computación (memoria RAM) con el fin de obtener información relevante sobre el mismo.
+
+En el ámbito Forense se trabaja con **volcados de memoria** porque así se realiza una intrusión mínima sobre el sistema, además se garantiza la posibilidad de reproducir el análisis y obtener los mismos resultados.
+
+Es fundamental conocer las herramientas seleccionadas para realizar el volcado de memoria, ya que afectará al mismo: si se trata de un hardware tendrá algunas condiciones en las cuales funciona y un puerto al que debe conectarse (*que la computadora, objeto de análisis, debe tener disponible*), y si se trata de un software, el mismo se cargará en memoria.
+
+Una vez obtenida la información para el análisis, es necesario conocer la estructura que almacenan la información de interés: procesos, trheads, módulos, conexiones, sockets, drivers, entrada de registro, entre otras, son estructuras propias de cada Sistema Operativo y que, además, varían de acuerdo a las versiones y arquitecturas del procesador. El conocimiento de estas estructuras es fundamental para obtener la información que se almacena en ella y que posiblemente sólo esté disponible en memoria.
+
+> **Un volcado de memoria** es un registro no estructurado del contenido de la memoria en un momento concreto, generalmente utilizado para depurar un programa que ha finalizado su ejecución incorrectamente o para realizar copias del contenido de la misma.
+
+### Procedimiento de un análisis forense de memoria principal
+
+**Tarea del Forense**
+1.  Captura del dump
+2.  Reconocimiento de estructuras en memoria
+3.  Reconocimiento de relaciones
+4.  Análisis automático
+5.  Análisis del Forense
+6.  Elaboración de conclusiones
+
+*(Pasos 2, 3 y 4 corresponden a la Tarea de las herramientas de análisis de memoria.)*
+
+---
+
+*   El **reconocimiento de estructuras** consiste en identificar los distintos artefactos que pueden encontrarse dentro de la memoria explorando el volcado de memoria.
+*   El paso siguiente **relaciona entre sí** los distintos artefactos identificados.
+*   El **análisis automático** se realiza a partir de los datos identificados previamente en base a reglas y condiciones predefinidas.
+*   En base a la información que los motores de análisis pueden recuperar de manera automatizada queda en el analista forense realizar un **análisis más profundo y dar significado** a la misma en el contexto des caso investigado.
+
+El análisis de la memoria principal puede ayudar a inferir el uso que se le ha dado al equipo o detectar indicios que soporten una hipótesis particular, también puede permitir la eventual detección de un malware que haya tomado control del equipo y sea responsables de las actividades que se han llevado a adelante desde esa computadora en particular (este caso es de suma importancia porque se podría estar investigando a una persona inocente y el verdadero culpable esconderse detrás de ella. Para estas situaciones es vital el análisis de memoria ya que los indicios de malwares son difíciles de identificar y pueden hacer perder la evidencia digital).
+
+De la memoria también pueden extraerse contraseñas y claves de cifrados que estuvieran alojados en ella lo que puede permitir el acceso a cuentas de usuarios o información encriptada en otras imágenes forenses del caso.
+
+---
+
+### Descubrimiento de datos en el análisis forense de memoria
+
+Conociendo las particularidades y generalidades del análisis forense en memoria principal es posible descubrir muchos datos que pueden llevarnos a relacionar el mismo con actividades de interés para la investigación:
+
+*   **Búsqueda del contexto de seguridad de cada proceso:** puede identificarse el contexto de seguridad obtenido, es decir, el nivel de privilegios con el cual se ejecuta el proceso (en Windows, la estructura `_TOKEN`), su proceso padre y otros elementos mencionados que permitan realizar un análisis y establecer previamente conclusiones sobre la eventual presencia de malware.
+*   **Búsqueda de información que no se encuentra en el disco y que se sospecha se quiso ocultar:** búsqueda de contenido cifrado, búsqueda de contenido “legible” (se pueden encontrar fragmentos de texto de un archivo, documento o un correo electrónico que ha sido leído o escrito), búsqueda de archivos.
+*   **Búsqueda de información de conexiones y sockets:** dentro de los datos de conexiones ya sean TCP, UDP o sockets, es posible vincular las mismas con los Process ID y así llegar hasta el proceso en sí mismo, pudiendo verificar si este resulta sospechoso. Esto permite relacionar procesos que resulten sospechosos con direcciones IP remotas y eventualmente extender la investigación.
+*   **Búsqueda de información que indique la utilización de algún dispositivo periférico** en el equipo, como podrían ser drivers cargados en memoria.
+*   **Búsqueda de software específico:** procesos, entrada de registros, módulos.
+
+El análisis de la memoria no se circunscribe a estas estructuras y las relaciones entre ellas. También es importante incorporar el análisis a la búsqueda de datos que pueden ser relevantes y no forman parte de ninguna estructura en particular. En la figura se puede observar parte del contenido de una página web que fue abierta en el equipo desde donde se extrajo un volcado de memoria.
+
+Cualquiera sea la pericia a realizar, los datos contenidos en un volcado de memoria se almacenan de diferente manera y pueden formar parte o no de distintas estructuras. Por esto es necesario saber como interpretarlos y que herramientas utilizar como soporte de análisis.
+
+---
+
+## Adquisición del Volcado de Memoria
+
+La adquisición del volcado de memoria es una tarea prioritaria en las actividades a realizar *in situ*, debido a la volatilidad de los datos y porque otras actividades a realizar en la escena (tareas de adquisición o triage) pueden afectar a la información presente en memoria.
+
+### Consideraciones al usar software para un volcado de memoria:
+*   Cuáles son los procesos propios de la herramienta.
+*   El espacio que ocupan los mismos al momento de la ejecución.
+*   El tipo de volcado que genera la herramienta.
+    *   **Formato e información que vuelca desde la memoria al archivo:**
+        *   **Crash dump:** Volcado generado por Windows.
+        *   **Raw dump:** Volcado de memoria completo que posee directamente todo el contenido de la memoria al momento de generarlo.
+        *   **Etc.**
+
+El análisis forense informático debe tener en cuenta el nivel de volatilidad de los datos que se pueden convertir en información relevante a partir de la evidencia digital. La adquisición del volcado de memoria para llevar adelante un análisis forense del mismo, debe realizarse en los primeros instantes en los que se tiene contacto con el equipo, dado que el contenido de la memoria RAM cambia constantemente. La elección de la herramienta a utilizar para la adquisición del volcado de memoria es factor de éxito del posterior análisis.
+
+---
+
+### Bibliografía
+*   **El Rastro Digital (Aspectos Técnicos, Legales y Estratégicos de la Informática Forense)** – Autores Varios – Editorial Fasta 2017 – Cap. 4, 9.
+*   **Wikipedia – Volcado de memoria.**

@@ -1,0 +1,137 @@
+# LEGISLACIÓN
+**Profesora:** Dra. Lonati, Marcela Paola
+
+| 2.025 | 2º Año | TUP - UTN |
+| :---: | :----: | :-------: |
+
+---
+
+## Jornada de Trabajo
+Es todo el tiempo durante el cual el trabajador está a disposición del empleador. La jornada laboral comienza con el ingreso del trabajador al lugar de trabajo y finaliza con su egreso.
+
+### Criterios para definir la jornada de trabajo
+*   **Legal o reglamentario:** Se computa como jornada el tiempo fijado en la ley.
+*   **Efectivo:** Es el prestado en forma concreta.
+*   **Nominal:** Se refiere al tiempo en el cual el trabajador está a disposición del empleador (**criterio adoptado por nuestra legislación**) (art. 197 de la LCT). El empleador también debe hacer conocer la diagramación de los horarios mediante anuncios colocados en lugares visibles para conocimiento público de los trabajadores.
+
+### Jornadas laborales
+
+| Tipo | Descripción | Detalles Adicionales |
+| :--- | :--- | :--- |
+| **Normal diurna** | Comprende entre las 6am y las 21pm. | |
+| **Nocturna** | Comprende entre las 21pm y 6am del día siguiente. | Si el trabajo es individual, no puede exceder las 7hs trabajadas. Esta limitación no se aplica en horarios rotativos del régimen de trabajo en equipo. |
+| **Insalubre** | Es aquella que, por las condiciones de trabajo, pone en peligro la salud del trabajador. | No puede exceder las 6 horas diarias. Percibe la misma remuneración que el que trabaja 8hs. |
+| **Mixta** | Toma parte de las jornadas nocturna y diurna. | El empleador decide cómo será dicha jornada. |
+
+### Horas extras
+Se da cuando el dependiente trabaja más horas de lo normal durante una jornada completa. El límite de horas extras es de **30hs mensuales** y **200hs anuales**.
+
+---
+
+## Descanso
+Es el tiempo que el trabajador utiliza para el reposo y durante el cual se recupera física y psíquicamente de la fatiga producida por la realización de la tarea; incluye los intervalos dedicados al goce de tiempo libre, a la familia, al esparcimiento, al deporte y a desarrollar actividades sociales y culturales. Su función es higiénica y biológica, resultando imprescindible para preservar la salud del empleado y evitar enfermedades. La LCT establece tres clases de descansos obligatorios.
+
+### Descanso diario
+*   Incluye tanto al que se otorga dentro de la jornada como al que se da entre dos jornadas.
+*   El primero es una pausa que se produce para el almuerzo del trabajador o por razones higiénicas.
+*   El segundo es el tiempo mínimo que necesita el trabajador para recuperarse del esfuerzo psico-físico efectuado durante la jornada de trabajo.
+
+### Descanso Semanal. Franco compensatorio
+*   Art. 203 de la LCT.- "queda prohibida la ocupación del trabajador desde las 13hs del día sábado hasta las 24hs del día siguiente, salvo en los caso de excepción previsto en el artículo precedente y los que las leyes o reglamentaciones prevean..."
+
+### Vacaciones anuales
+*   Se trata de un descanso anual obligatorio durante el cual el trabajador es dispensado de todo trabajado durante un cierto número de días consecutivos de cada año, con derecho a percibir sus remuneraciones habituales.
+*   La ley establece mecanismos basados en la antigüedad para fijar la cantidad de días de vacaciones de cada trabajador.
+*   El art. 151 de la LCT dispone que para tener derecho cada año a las vacaciones el trabajador debe haber prestado servicios, como mínimo, la mitad de los días hábiles del calendario laboral.
+
+---
+
+## Feriados y Días no Laborales
+Se trata de determinados días en que la mayoría de las legislaciones disponen la no prestación de tareas por conmemorarse acontecimiento históricos, religiosos o festivos. Tiene un tratamiento similar a los descansos, pero a diferencia de éstos, su finalidad no es la reparación de energías sino permitir que el trabajador pueda participar de las actividades inherentes de la festividad. El artículo 166 de la LCT remite al sistema establecido para el descanso dominical, disponiendo que los "que presten servicios en tales días cobrarán la remuneración normal de los días laborales más una cantidad igual".
+
+### Días no laborales
+*   Jueves Santo
+*   Año Nuevo Judío-Rosh Hashana (dos días)
+*   Día del Perdón-Iom Kipur (un día)
+*   Pascua Judía-Pesaj (los dos primeros y los dos últimos días)
+*   Día posterior a la culminación del ayuno-Id Al-Fitr (un día)
+*   Fiesta del Sacrificio-Id Al-Adha (un día)
+
+### Régimen de Licencias Especiales
+Son breves períodos que deben ser abonados por el empleador y que el trabajador puede disponer en su beneficio para realizar trámites personales, compartir acontecimientos con sus allegados y familiares o rendir examen en la enseñanza media, terciaria o universitaria.
+
+---
+
+## Estabilidad de empleo
+Es el derecho del trabajador a mantener la relación de trabajo por todo el tiempo convenido, sea a tiempo determinado o indeterminado.
+
+Según la intensidad con que se garantice el derecho a la estabilidad se puede clasificar en:
+*   **Estabilidad propia:** Puede ser absoluta o relativa; se presenta cuando la norma aplicable prevé la imposibilidad jurídica de extinguir la relación sin causa: el empleador tiene vedada la posibilidad de despedir sin invocar una causa y está obligado a reincorporar al trabajador – **absoluta** – o en caso de negarse, debe pagarse una indemnización agravada – **relativa**.
+*   **Estabilidad impropia:** Es la que se aplica en nuestra legislación; no se le garantiza al trabajador la perduración del vínculo jurídico, pero en caso de despido sin causa el empleador debe pagar una indemnización; intenta evitar el despido imponiendo una sanción indemnizatoria al empleador.
+
+### Protección contra el despido arbitrario
+La protección contra el despido es una de las medidas adoptadas por las legislaciones para evitar el despido arbitrario del trabajador. El artículo 14 bis de la C.N. garantiza la protección contra el despido arbitrario, pero no obliga a establecer la estabilidad propia. La protección consiste en la obligación de abonar una indemnización basada en el salario mensual y la antigüedad del trabajador: en la práctica existe un régimen de “libertad de despido" con indemnización tarifada, que cubre los daño y perjuicios ocasionados y tiene una triple función: reparatoria, sancionatoria y disuasiva.
+
+---
+
+## Despido
+
+### Preaviso
+Es una obligación y una garantía bilateral de las partes. Consiste en el deber de notificar la extinción del contrato de trabajo con antelación dispuesta por la ley (Ley 25.877). Su finalidad es evitar los perjuicios que produce la ruptura intempestiva del contrato. El empleador debe notificar al trabajador para que este, durante el tiempo que le queda de trabajo, pueda buscar otro trabajo antes del día de la extinción. De la misma manera el empleador debe buscar en ese tiempo alguien que cubra esa vacante. La falta de la notificación de la extinción genera el derecho a percibir una indemnización sustitutiva según la antigüedad del trabajador.
+
+#### Plazos
+No se requiere de una antigüedad mínima para que el empleador tenga la obligación de preavisar. Durante el período de prueba es de 15 días.
+Cuando el trabajador tengas más de cinco años de antigüedad debe otorgar el preaviso con una anticipación de dos meses.
+
+#### Forma
+El artículo 235 de la LCT dispone que **"la notificación del preaviso deberá probarse por escrito"**. Se trata de una declaración unilateral de voluntad receptiva: esto significa que además de ser emitido debe llegar a su destinatario.
+En caso de que el preaviso no llegue se debe abonar la integración del mes del despido.
+Sí el contrato está suspendido por alguna causa que genera derecho a percibir remuneración, el preaviso no tiene efecto, salvo que haya sido otorgado pasada una vez la suspensión. Sí la suspensión no genera derecho a percibir remuneración el preaviso es válido, pero a partir de su notificación y hasta el fin del plazo el empleador tiene la obligación de pagar salarios.
+
+### Efectos de Preaviso
+El artículo 237 de la LCT dispone que: "durante el plazo de preaviso el trabajador tendrá derecho, sin reducción de su salario, a gozar de una licencia de dos horas diarias dentro de la jornada legal de trabajo, pudiendo optar por las dos primeras o las dos últimas horas de la jornada. El trabajador podrá igualmente optar por acumular las horas de licencia en una o más jornadas íntegras”. Es una licencia para que busque un nuevo empleo que la puede tomar aunque el empleador no le notifique sobre el mismo.
+
+### Concepto de Despido
+Es una de las forma de extinción del contrato. Surge de la voluntad de una de las partes (**despido directo**, en caso de que el empleador otorgue el despido, o porque el trabajador decide terminar con el contrato, **despido indirecto**) y puede fundarse en una justa causa o disponerse sin expresión de causa.
+
+Es un acto formal (por escrito) o informal (verbal). Por escrito el empleador debe expresar, de manera clara, la causa que motivó su decisión rescisoria (art. 243 de la LCT). Por despido indirecto el trabajador decide dar por terminado el contrato ante un incumplimiento patronal que considera de suficiente gravedad e impide la continuación del contrato. Debe ser notificado por escrito (previa intimación al empleador para que subsane su incumplimiento), expresando en forma suficientemente clara los motivos que justifican su decisión. El trabajador tiene la carga de la prueba de la causa invocada, de demostrarla genera el derecho a cobrar las mismas indemnizaciones que en caso de despido directo.
+
+### Despido con justa causa
+En el contrato de trabajo ambas partes tienen derechos y obligaciones que surgen de la ley, los convenios colectivos, etc. El incumplimiento de los pactado permite responsabilizar al "deudor” (sea el trabajador o el empleador) por las consecuencias del hecho.
+
+*   Tanto el despido por justa causa como el despido indirecto deben comunicarse por escrito y en forma clara los motivos en que se funda la ruptura del contrato.
+*   Se realiza por telegrama o carta documento; también es válida por medio de una misiva simple o una nota interna de la empresa con la constancia de la recepción del destinatario.
+*   No es admisible, en caso de demanda judicial, modificar la causa de despido consignada en la comunicación respectiva: **invariabilidad de la causa**. En el proceso judicial sobreviniente sólo se puede invocar la causal esgrimida en la comunicación del despido: otra no puede ser considerada como justa causa ni aún en caso de ser probada y demostrada su gravedad.
+*   Se debe expresar el hecho que determina la disolución con precisión y claridad no tiene eficacia manifestaciones genéricas, imprecisas o ambiguas. Se debe especificar el tipo de **injuria** o incumplimiento en forma clara y detallada.
+
+Para que exista una justa causa una **injuria**. La injuria es un grave ilícito contractual que justifica la aplicación de la máxima sanción (despido).
+La valoración de la existencia de una injuria la efectúa prudencialmente el Juez. Para valorar la injuria el magistrado debe tener en cuenta:
+*   Que pueda tratarse de una injuria tanto patrimonial como moral (no requiere dolo, siendo suficiente que lesione los interese legítimos de las partes).
+*   Debe valorarse relacionándola con el contexto laboral y sociocultural en el cual se produce.
+*   Si se trata de un trabajador con varios años de antigüedad que nunca fue sancionado, la gravedad de la injuria debe ser valoradas más estrictamente.
+*   Los hechos posteriores a la extinción no pueden ser tomados en cuenta.
+
+---
+
+## Régimen indemnizatorio
+Cuando el despido es dispuesto por el empleador sin causa justificada o el trabajador se colocó en situación de despido con justa causa, le corresponde la indemnización por antigüedad prevista en el artículo 245 de la LCT, la indemnización sustitutiva de preaviso (art. 232 LCT) y la integración del mes de despido (art. 233 LCT), además de los rubros de pagos obligatorios: días trabajados hasta el momento del despido (art. 156 LCT) y el SAC proporcional (art. 123 LCT).
+
+Además, según el caso, podrán corresponderle algunas de las indemnizaciones agravadas – por maternidad, matrimonio, despido de representantes sindicales – las multas previstas en la Ley Nacional de Empleo (arts. 8, 9, 10 y 15, Ley 24.013), el artículo 132 bis de la LCT (incorporado por la Ley 25.345) y el 80 de la LCT (modificado por el art. 45 de la Ley 25.345) y las que resulten a surgir de los estatutos de los convenios colectivos que resulten aplicables.
+
+### Indemnización por antigüedad
+*   La pauta general que la indemnización del art. 245 LCT es igual a un mes de remuneración por año de antigüedad o fracción mayor a tres meses, con los alcances y aclaraciones que se especifiquen seguidamente.
+
+### Indemnización sustitutiva de preaviso
+*   Dispone el art. 232 LCT que "la parte que omita el preaviso o lo otorgue de modo insuficiente deberá abonar a la otra una indemnización sustitutiva equivalente a la remuneración que correspondería al trabajador durante los plazos señalados en al art. 213".
+*   Es un resarcimiento que tiene como base las remuneraciones que el trabajador hubiera percibido durante el lapso de preaviso omitido.
+*   Como tiene carácter indemnizatorio no sufre descuentos por aportes jubilatorios, ni sindicales, ni para obras sociales.
+
+### Integración del mes de despido
+*   Es la suma debida al trabajador correspondiente a los días faltantes de trabajo.
+*   La integración del mes sólo procede si el empleador despide al trabajador sin otorgarle el preaviso o bien, el despido indirecto con justa causa.
+*   El último párrafo del art. 233 prevé que la integración del mes no procede cuando la extinción del se produce durante el período de prueba.
+
+---
+
+## Bibliografía
+*   Guía de Estudio – Derecho Laboral – Editorial Estudio, 2019 – Cap. VII (pág. 173, 177 al 186, 190), Cap. X (219 al 228, 232, 233).

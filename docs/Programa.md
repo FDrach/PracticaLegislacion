@@ -1,0 +1,106 @@
+**UTN * TUC**
+
+**Carreras:** TECNICATURA UNIVERSITARIA EN PROGRAMACIÓN  
+**Asignatura:** LEGISLACIÓN - 2º AÑO
+
+# PROGRAMA ANALÍTICO
+
+---
+
+## UNIDAD N°1: INTRODUCCIÓN A LA ORGANIZACIÓN NACIONAL
+
+### Objetivos:
+Se pretende que el alumno en esta unidad:
+*   Conozca el sistema de gobierno establecido por la Constitución Nacional.
+*   Discrimine las atribuciones constitucionales otorgadas a la Nación y a las Provincias.
+
+### Contenidos:
+Constitución Nacional, Reformas. Formas de Gobierno. Democracia representativa, Republicana y Federal. División de Poderes. Poder Ejecutivo, Legislativo y Judicial. Funcionamiento de cada uno de ellos y relación entre los mismos. Concepto de Nación y País.
+
+---
+
+## UNIDAD N°2: INTRODUCCIÓN AL DERECHO
+
+### Objetivos:
+Se pretende que el alumno en esta unidad:
+*   Comprenda qué es el derecho y su ubicación dentro del sistema normativo que rige las conductas humanas.
+*   Clasifique los distintos tipos de normas jurídicas.
+*   Conozca las distintas fuentes del derecho.
+*   Identifique al Sujeto del Derecho.
+*   Conozca las personas humanas.
+*   Reconozca los atributos de las personas humanas.
+*   Establezca el concepto de persona jurídica, su clasificación y las principales disposiciones que las rigen.
+
+### Contenido:
+Derecho Civil. Parte general. Nociones generales. Clasificación del derecho positivo. Fuentes del Derecho Civil. Principio y fin de las personas. Muerte y Muerte presunta. Atributos de la personalidad, nombre, domicilio, patrimonio, estado y capacidad. Personas Jurídicas. Actos jurídicos: concepto. Forma de Actos Jurídicos. Vicios de la voluntad: error, dolo, violencia, lesión, simulación y fraude. Nulidad de los Actos Jurídicos.
+
+---
+
+## UNIDAD N°3: DERECHO CIVIL
+
+### Objetivos:
+Se pretende que el alumno en esta unidad:
+*   Comprenda las obligaciones en relación con los tipos de personas.
+*   Reconozca el concepto de contrato y para qué sirve.
+*   Establezca contratos con otras persona o entidades para beneficio propio mutuo.
+
+### Contenidos:
+Obligaciones: concepto, naturaleza y origen de las obligaciones. Clasificación: según el objeto, con relación a las personas. Contratos: concepto, consentimiento, Tipos de Contratos: Locación, Mutuo, Compraventa, etc. Nuevos tipos de contrataciones: Franchising, Leasing. Derechos Reales: concepto, enumeración, clasificación.
+
+---
+
+## UNIDAD N° 4: DERECHO LABORAL
+
+### Objetivos:
+Se pretende que el alumno en esta unidad:
+*   Identifique derecho y obligaciones como empleador y trabajador.
+
+### Contenidos:
+Derecho del Trabajo: Ley de Contrato de Trabajo (20744). Modificaciones. Distintos tipos de contratos de trabajo. Derechos y deberes de las partes. Remuneración. Jornada Laboral: días de descanso, feriados, etc. Despido.
+
+---
+
+## UNIDAD N° 5: DERECHO INFORMÁTICO
+
+### Objetivos:
+Se pretende que el alumno en esta unidad:
+*   Comprenda la diferencia entre derecho e informática y cómo se complementan.
+*   Comprenda los daños y las responsabilidades que conlleva actuar así.
+*   Entienda la responsabilidad actual de la tecnología de internet.
+*   Conozca sobre los valores de la profesión.
+*   Conozca su derecho como inventor.
+
+### Contenidos:
+El Derecho y la Informática. Delito Informático. Responsabilidades civiles y penales. Responsabilidad profesional. Ética en el ejercicio de la profesión. Propiedad Intelectual: Propiedad Industrial y Derechos de Autor. Base de Datos. Ley de Economía del Conocimiento.
+
+---
+
+## UNIDAD N° 6: TRABAJO PERICIAL
+
+### Objetivos:
+Se pretende que el alumno en esta unidad:
+*   Aprenda sobre algunas ramas del trabajo pericial.
+*   Comprenda las funciones de las partes.
+*   Conozca la responsabilidad del Perito en los procesos judiciales.
+*   Actúe bajo los estatutos de la Ley 7490.
+*   Entienda la función del Perito informático.
+
+### Contenidos:
+El trabajo Pericial. Informe de la pericia en Sistemas. Perito Oficial y perito de parte. Responsabilidad del profesional. Honorarios Judiciales.
+
+---
+
+## Bibliografía:
+
+*   **Guía de Estudio - Derecho Constitucional** - Editorial Estudio - 2008
+*   **Guía de Estudio - Civil Parte General** - Editorial Estudio - 2021
+*   **Guía de Estudio - Reales** - Editorial Estudio - 2016
+*   **Guía de Estudio - Contratos Civiles y Comerciales Parte General/Parte Especial** - Editorial Estudio - 2018
+*   **Guía de Estudio - Obligaciones Civiles y Comerciales** - Editorial Estudio - 2016
+*   **Guía de Estudio - Laboral (Derecho del Trabajo y de la Seguridad Social)** - Editorial Estudio - 2019
+*   **Guía de Estudio - Laboral (Derecho del Trabajo y de la Seguridad Social)** - Editorial Estudio - 2024
+*   **Responsabilidad Civil Derivada de la Informática** - Salvador Daría Bergel
+*   **Responsabilidad Civil en Materia Informática** - Marcelo Bauza Reilly
+*   **Derecho Informático - Documentos electrónicos: Concepción, Validez y Eficacia Probatoria** - Universidad Siglo 21 - Salgado Martín
+*   **Tratado de Derecho Informático - Tomo 1** - Daniel Ricardo Altmark/Eduardo Molina Quiroga - Editorial La Ley 2012
+*   **El Rastro Digital - Aspectos Técnicos, Legales y Estratégicos de la Informática Forense** - Autores Varios - Universidad de Fasta Ediciones - 2016
